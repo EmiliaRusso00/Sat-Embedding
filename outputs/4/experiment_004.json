@@ -1,6 +1,6 @@
 {
     "experiment_id": 4,
-    "timestamp": "2025-11-28T12:43:55.214321",
+    "timestamp": "2025-11-28T12:59:21.197432",
     "config": {
         "id": 4,
         "logical_graph": "graphs/smallword4.txt",
@@ -25,9 +25,9 @@
     "solver": {
         "name": "glucose",
         "status": "SAT",
-        "time_cnf_generation": 0.022455453872680664,
-        "time_sat_solve": 2.4371984004974365,
-        "time_total": 2.459653854370117
+        "time_cnf_generation": 0.014912128448486328,
+        "time_sat_solve": 0.01729726791381836,
+        "time_total": 0.03220939636230469
     },
     "solution": {
         "0": [

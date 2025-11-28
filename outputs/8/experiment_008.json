@@ -1,6 +1,6 @@
 {
     "experiment_id": 8,
-    "timestamp": "2025-11-28T12:44:18.331797",
+    "timestamp": "2025-11-28T12:59:23.191333",
     "config": {
         "id": 8,
         "logical_graph": "graphs/bipartito5x5.txt",
@@ -25,9 +25,9 @@
     "solver": {
         "name": "glucose",
         "status": "UNSAT",
-        "time_cnf_generation": 0.013269662857055664,
-        "time_sat_solve": 2.1213834285736084,
-        "time_total": 2.134653091430664,
+        "time_cnf_generation": 0.002522706985473633,
+        "time_sat_solve": 0.015459299087524414,
+        "time_total": 0.017982006072998047,
         "unsat_clauses": [
             "[-80, -15, edge_consistency]",
             "[-80, -14, edge_consistency]",

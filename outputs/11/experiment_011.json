@@ -1,6 +1,6 @@
 {
     "experiment_id": 11,
-    "timestamp": "2025-11-28T12:44:36.385113",
+    "timestamp": "2025-11-28T12:59:24.746379",
     "config": {
         "id": 11,
         "logical_graph": "graphs/clique6.txt",
@@ -25,9 +25,9 @@
     "solver": {
         "name": "glucose",
         "status": "UNSAT",
-        "time_cnf_generation": 0.00625920295715332,
-        "time_sat_solve": 2.9830758571624756,
-        "time_total": 2.989335060119629,
+        "time_cnf_generation": 0.0010976791381835938,
+        "time_sat_solve": 0.01109170913696289,
+        "time_total": 0.012189388275146484,
         "unsat_clauses": [
             "[-8, -36, edge_consistency]",
             "[-8, -35, edge_consistency]",

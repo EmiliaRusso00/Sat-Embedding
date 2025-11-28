@@ -1,6 +1,6 @@
 {
     "experiment_id": 9,
-    "timestamp": "2025-11-28T12:44:24.256032",
+    "timestamp": "2025-11-28T12:59:23.735773",
     "config": {
         "id": 9,
         "logical_graph": "graphs/stella4.txt",
@@ -25,9 +25,9 @@
     "solver": {
         "name": "glucose",
         "status": "SAT",
-        "time_cnf_generation": 0.004970550537109375,
-        "time_sat_solve": 2.175217866897583,
-        "time_total": 2.1801884174346924
+        "time_cnf_generation": 0.006936788558959961,
+        "time_sat_solve": 0.03858447074890137,
+        "time_total": 0.04552125930786133
     },
     "solution": {
         "0": 2,
