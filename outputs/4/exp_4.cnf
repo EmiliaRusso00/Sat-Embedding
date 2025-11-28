@@ -1,0 +1,5409 @@
+p cnf 96 2704
+c id 1 type at_least_one
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 0
+c id 2 type at_most_one
+-1 -2 0
+c id 3 type at_most_one
+-1 -3 0
+c id 4 type at_most_one
+-1 -4 0
+c id 5 type at_most_one
+-1 -5 0
+c id 6 type at_most_one
+-1 -6 0
+c id 7 type at_most_one
+-1 -7 0
+c id 8 type at_most_one
+-1 -8 0
+c id 9 type at_most_one
+-1 -9 0
+c id 10 type at_most_one
+-1 -10 0
+c id 11 type at_most_one
+-1 -11 0
+c id 12 type at_most_one
+-1 -12 0
+c id 13 type at_most_one
+-1 -13 0
+c id 14 type at_most_one
+-1 -14 0
+c id 15 type at_most_one
+-1 -15 0
+c id 16 type at_most_one
+-1 -16 0
+c id 17 type at_most_one
+-1 -17 0
+c id 18 type at_most_one
+-1 -18 0
+c id 19 type at_most_one
+-1 -19 0
+c id 20 type at_most_one
+-1 -20 0
+c id 21 type at_most_one
+-1 -21 0
+c id 22 type at_most_one
+-1 -22 0
+c id 23 type at_most_one
+-1 -23 0
+c id 24 type at_most_one
+-1 -24 0
+c id 25 type at_most_one
+-2 -3 0
+c id 26 type at_most_one
+-2 -4 0
+c id 27 type at_most_one
+-2 -5 0
+c id 28 type at_most_one
+-2 -6 0
+c id 29 type at_most_one
+-2 -7 0
+c id 30 type at_most_one
+-2 -8 0
+c id 31 type at_most_one
+-2 -9 0
+c id 32 type at_most_one
+-2 -10 0
+c id 33 type at_most_one
+-2 -11 0
+c id 34 type at_most_one
+-2 -12 0
+c id 35 type at_most_one
+-2 -13 0
+c id 36 type at_most_one
+-2 -14 0
+c id 37 type at_most_one
+-2 -15 0
+c id 38 type at_most_one
+-2 -16 0
+c id 39 type at_most_one
+-2 -17 0
+c id 40 type at_most_one
+-2 -18 0
+c id 41 type at_most_one
+-2 -19 0
+c id 42 type at_most_one
+-2 -20 0
+c id 43 type at_most_one
+-2 -21 0
+c id 44 type at_most_one
+-2 -22 0
+c id 45 type at_most_one
+-2 -23 0
+c id 46 type at_most_one
+-2 -24 0
+c id 47 type at_most_one
+-3 -4 0
+c id 48 type at_most_one
+-3 -5 0
+c id 49 type at_most_one
+-3 -6 0
+c id 50 type at_most_one
+-3 -7 0
+c id 51 type at_most_one
+-3 -8 0
+c id 52 type at_most_one
+-3 -9 0
+c id 53 type at_most_one
+-3 -10 0
+c id 54 type at_most_one
+-3 -11 0
+c id 55 type at_most_one
+-3 -12 0
+c id 56 type at_most_one
+-3 -13 0
+c id 57 type at_most_one
+-3 -14 0
+c id 58 type at_most_one
+-3 -15 0
+c id 59 type at_most_one
+-3 -16 0
+c id 60 type at_most_one
+-3 -17 0
+c id 61 type at_most_one
+-3 -18 0
+c id 62 type at_most_one
+-3 -19 0
+c id 63 type at_most_one
+-3 -20 0
+c id 64 type at_most_one
+-3 -21 0
+c id 65 type at_most_one
+-3 -22 0
+c id 66 type at_most_one
+-3 -23 0
+c id 67 type at_most_one
+-3 -24 0
+c id 68 type at_most_one
+-4 -5 0
+c id 69 type at_most_one
+-4 -6 0
+c id 70 type at_most_one
+-4 -7 0
+c id 71 type at_most_one
+-4 -8 0
+c id 72 type at_most_one
+-4 -9 0
+c id 73 type at_most_one
+-4 -10 0
+c id 74 type at_most_one
+-4 -11 0
+c id 75 type at_most_one
+-4 -12 0
+c id 76 type at_most_one
+-4 -13 0
+c id 77 type at_most_one
+-4 -14 0
+c id 78 type at_most_one
+-4 -15 0
+c id 79 type at_most_one
+-4 -16 0
+c id 80 type at_most_one
+-4 -17 0
+c id 81 type at_most_one
+-4 -18 0
+c id 82 type at_most_one
+-4 -19 0
+c id 83 type at_most_one
+-4 -20 0
+c id 84 type at_most_one
+-4 -21 0
+c id 85 type at_most_one
+-4 -22 0
+c id 86 type at_most_one
+-4 -23 0
+c id 87 type at_most_one
+-4 -24 0
+c id 88 type at_most_one
+-5 -6 0
+c id 89 type at_most_one
+-5 -7 0
+c id 90 type at_most_one
+-5 -8 0
+c id 91 type at_most_one
+-5 -9 0
+c id 92 type at_most_one
+-5 -10 0
+c id 93 type at_most_one
+-5 -11 0
+c id 94 type at_most_one
+-5 -12 0
+c id 95 type at_most_one
+-5 -13 0
+c id 96 type at_most_one
+-5 -14 0
+c id 97 type at_most_one
+-5 -15 0
+c id 98 type at_most_one
+-5 -16 0
+c id 99 type at_most_one
+-5 -17 0
+c id 100 type at_most_one
+-5 -18 0
+c id 101 type at_most_one
+-5 -19 0
+c id 102 type at_most_one
+-5 -20 0
+c id 103 type at_most_one
+-5 -21 0
+c id 104 type at_most_one
+-5 -22 0
+c id 105 type at_most_one
+-5 -23 0
+c id 106 type at_most_one
+-5 -24 0
+c id 107 type at_most_one
+-6 -7 0
+c id 108 type at_most_one
+-6 -8 0
+c id 109 type at_most_one
+-6 -9 0
+c id 110 type at_most_one
+-6 -10 0
+c id 111 type at_most_one
+-6 -11 0
+c id 112 type at_most_one
+-6 -12 0
+c id 113 type at_most_one
+-6 -13 0
+c id 114 type at_most_one
+-6 -14 0
+c id 115 type at_most_one
+-6 -15 0
+c id 116 type at_most_one
+-6 -16 0
+c id 117 type at_most_one
+-6 -17 0
+c id 118 type at_most_one
+-6 -18 0
+c id 119 type at_most_one
+-6 -19 0
+c id 120 type at_most_one
+-6 -20 0
+c id 121 type at_most_one
+-6 -21 0
+c id 122 type at_most_one
+-6 -22 0
+c id 123 type at_most_one
+-6 -23 0
+c id 124 type at_most_one
+-6 -24 0
+c id 125 type at_most_one
+-7 -8 0
+c id 126 type at_most_one
+-7 -9 0
+c id 127 type at_most_one
+-7 -10 0
+c id 128 type at_most_one
+-7 -11 0
+c id 129 type at_most_one
+-7 -12 0
+c id 130 type at_most_one
+-7 -13 0
+c id 131 type at_most_one
+-7 -14 0
+c id 132 type at_most_one
+-7 -15 0
+c id 133 type at_most_one
+-7 -16 0
+c id 134 type at_most_one
+-7 -17 0
+c id 135 type at_most_one
+-7 -18 0
+c id 136 type at_most_one
+-7 -19 0
+c id 137 type at_most_one
+-7 -20 0
+c id 138 type at_most_one
+-7 -21 0
+c id 139 type at_most_one
+-7 -22 0
+c id 140 type at_most_one
+-7 -23 0
+c id 141 type at_most_one
+-7 -24 0
+c id 142 type at_most_one
+-8 -9 0
+c id 143 type at_most_one
+-8 -10 0
+c id 144 type at_most_one
+-8 -11 0
+c id 145 type at_most_one
+-8 -12 0
+c id 146 type at_most_one
+-8 -13 0
+c id 147 type at_most_one
+-8 -14 0
+c id 148 type at_most_one
+-8 -15 0
+c id 149 type at_most_one
+-8 -16 0
+c id 150 type at_most_one
+-8 -17 0
+c id 151 type at_most_one
+-8 -18 0
+c id 152 type at_most_one
+-8 -19 0
+c id 153 type at_most_one
+-8 -20 0
+c id 154 type at_most_one
+-8 -21 0
+c id 155 type at_most_one
+-8 -22 0
+c id 156 type at_most_one
+-8 -23 0
+c id 157 type at_most_one
+-8 -24 0
+c id 158 type at_most_one
+-9 -10 0
+c id 159 type at_most_one
+-9 -11 0
+c id 160 type at_most_one
+-9 -12 0
+c id 161 type at_most_one
+-9 -13 0
+c id 162 type at_most_one
+-9 -14 0
+c id 163 type at_most_one
+-9 -15 0
+c id 164 type at_most_one
+-9 -16 0
+c id 165 type at_most_one
+-9 -17 0
+c id 166 type at_most_one
+-9 -18 0
+c id 167 type at_most_one
+-9 -19 0
+c id 168 type at_most_one
+-9 -20 0
+c id 169 type at_most_one
+-9 -21 0
+c id 170 type at_most_one
+-9 -22 0
+c id 171 type at_most_one
+-9 -23 0
+c id 172 type at_most_one
+-9 -24 0
+c id 173 type at_most_one
+-10 -11 0
+c id 174 type at_most_one
+-10 -12 0
+c id 175 type at_most_one
+-10 -13 0
+c id 176 type at_most_one
+-10 -14 0
+c id 177 type at_most_one
+-10 -15 0
+c id 178 type at_most_one
+-10 -16 0
+c id 179 type at_most_one
+-10 -17 0
+c id 180 type at_most_one
+-10 -18 0
+c id 181 type at_most_one
+-10 -19 0
+c id 182 type at_most_one
+-10 -20 0
+c id 183 type at_most_one
+-10 -21 0
+c id 184 type at_most_one
+-10 -22 0
+c id 185 type at_most_one
+-10 -23 0
+c id 186 type at_most_one
+-10 -24 0
+c id 187 type at_most_one
+-11 -12 0
+c id 188 type at_most_one
+-11 -13 0
+c id 189 type at_most_one
+-11 -14 0
+c id 190 type at_most_one
+-11 -15 0
+c id 191 type at_most_one
+-11 -16 0
+c id 192 type at_most_one
+-11 -17 0
+c id 193 type at_most_one
+-11 -18 0
+c id 194 type at_most_one
+-11 -19 0
+c id 195 type at_most_one
+-11 -20 0
+c id 196 type at_most_one
+-11 -21 0
+c id 197 type at_most_one
+-11 -22 0
+c id 198 type at_most_one
+-11 -23 0
+c id 199 type at_most_one
+-11 -24 0
+c id 200 type at_most_one
+-12 -13 0
+c id 201 type at_most_one
+-12 -14 0
+c id 202 type at_most_one
+-12 -15 0
+c id 203 type at_most_one
+-12 -16 0
+c id 204 type at_most_one
+-12 -17 0
+c id 205 type at_most_one
+-12 -18 0
+c id 206 type at_most_one
+-12 -19 0
+c id 207 type at_most_one
+-12 -20 0
+c id 208 type at_most_one
+-12 -21 0
+c id 209 type at_most_one
+-12 -22 0
+c id 210 type at_most_one
+-12 -23 0
+c id 211 type at_most_one
+-12 -24 0
+c id 212 type at_most_one
+-13 -14 0
+c id 213 type at_most_one
+-13 -15 0
+c id 214 type at_most_one
+-13 -16 0
+c id 215 type at_most_one
+-13 -17 0
+c id 216 type at_most_one
+-13 -18 0
+c id 217 type at_most_one
+-13 -19 0
+c id 218 type at_most_one
+-13 -20 0
+c id 219 type at_most_one
+-13 -21 0
+c id 220 type at_most_one
+-13 -22 0
+c id 221 type at_most_one
+-13 -23 0
+c id 222 type at_most_one
+-13 -24 0
+c id 223 type at_most_one
+-14 -15 0
+c id 224 type at_most_one
+-14 -16 0
+c id 225 type at_most_one
+-14 -17 0
+c id 226 type at_most_one
+-14 -18 0
+c id 227 type at_most_one
+-14 -19 0
+c id 228 type at_most_one
+-14 -20 0
+c id 229 type at_most_one
+-14 -21 0
+c id 230 type at_most_one
+-14 -22 0
+c id 231 type at_most_one
+-14 -23 0
+c id 232 type at_most_one
+-14 -24 0
+c id 233 type at_most_one
+-15 -16 0
+c id 234 type at_most_one
+-15 -17 0
+c id 235 type at_most_one
+-15 -18 0
+c id 236 type at_most_one
+-15 -19 0
+c id 237 type at_most_one
+-15 -20 0
+c id 238 type at_most_one
+-15 -21 0
+c id 239 type at_most_one
+-15 -22 0
+c id 240 type at_most_one
+-15 -23 0
+c id 241 type at_most_one
+-15 -24 0
+c id 242 type at_most_one
+-16 -17 0
+c id 243 type at_most_one
+-16 -18 0
+c id 244 type at_most_one
+-16 -19 0
+c id 245 type at_most_one
+-16 -20 0
+c id 246 type at_most_one
+-16 -21 0
+c id 247 type at_most_one
+-16 -22 0
+c id 248 type at_most_one
+-16 -23 0
+c id 249 type at_most_one
+-16 -24 0
+c id 250 type at_most_one
+-17 -18 0
+c id 251 type at_most_one
+-17 -19 0
+c id 252 type at_most_one
+-17 -20 0
+c id 253 type at_most_one
+-17 -21 0
+c id 254 type at_most_one
+-17 -22 0
+c id 255 type at_most_one
+-17 -23 0
+c id 256 type at_most_one
+-17 -24 0
+c id 257 type at_most_one
+-18 -19 0
+c id 258 type at_most_one
+-18 -20 0
+c id 259 type at_most_one
+-18 -21 0
+c id 260 type at_most_one
+-18 -22 0
+c id 261 type at_most_one
+-18 -23 0
+c id 262 type at_most_one
+-18 -24 0
+c id 263 type at_most_one
+-19 -20 0
+c id 264 type at_most_one
+-19 -21 0
+c id 265 type at_most_one
+-19 -22 0
+c id 266 type at_most_one
+-19 -23 0
+c id 267 type at_most_one
+-19 -24 0
+c id 268 type at_most_one
+-20 -21 0
+c id 269 type at_most_one
+-20 -22 0
+c id 270 type at_most_one
+-20 -23 0
+c id 271 type at_most_one
+-20 -24 0
+c id 272 type at_most_one
+-21 -22 0
+c id 273 type at_most_one
+-21 -23 0
+c id 274 type at_most_one
+-21 -24 0
+c id 275 type at_most_one
+-22 -23 0
+c id 276 type at_most_one
+-22 -24 0
+c id 277 type at_most_one
+-23 -24 0
+c id 278 type at_least_one
+25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 0
+c id 279 type at_most_one
+-25 -26 0
+c id 280 type at_most_one
+-25 -27 0
+c id 281 type at_most_one
+-25 -28 0
+c id 282 type at_most_one
+-25 -29 0
+c id 283 type at_most_one
+-25 -30 0
+c id 284 type at_most_one
+-25 -31 0
+c id 285 type at_most_one
+-25 -32 0
+c id 286 type at_most_one
+-25 -33 0
+c id 287 type at_most_one
+-25 -34 0
+c id 288 type at_most_one
+-25 -35 0
+c id 289 type at_most_one
+-25 -36 0
+c id 290 type at_most_one
+-25 -37 0
+c id 291 type at_most_one
+-25 -38 0
+c id 292 type at_most_one
+-25 -39 0
+c id 293 type at_most_one
+-25 -40 0
+c id 294 type at_most_one
+-25 -41 0
+c id 295 type at_most_one
+-25 -42 0
+c id 296 type at_most_one
+-25 -43 0
+c id 297 type at_most_one
+-25 -44 0
+c id 298 type at_most_one
+-25 -45 0
+c id 299 type at_most_one
+-25 -46 0
+c id 300 type at_most_one
+-25 -47 0
+c id 301 type at_most_one
+-25 -48 0
+c id 302 type at_most_one
+-26 -27 0
+c id 303 type at_most_one
+-26 -28 0
+c id 304 type at_most_one
+-26 -29 0
+c id 305 type at_most_one
+-26 -30 0
+c id 306 type at_most_one
+-26 -31 0
+c id 307 type at_most_one
+-26 -32 0
+c id 308 type at_most_one
+-26 -33 0
+c id 309 type at_most_one
+-26 -34 0
+c id 310 type at_most_one
+-26 -35 0
+c id 311 type at_most_one
+-26 -36 0
+c id 312 type at_most_one
+-26 -37 0
+c id 313 type at_most_one
+-26 -38 0
+c id 314 type at_most_one
+-26 -39 0
+c id 315 type at_most_one
+-26 -40 0
+c id 316 type at_most_one
+-26 -41 0
+c id 317 type at_most_one
+-26 -42 0
+c id 318 type at_most_one
+-26 -43 0
+c id 319 type at_most_one
+-26 -44 0
+c id 320 type at_most_one
+-26 -45 0
+c id 321 type at_most_one
+-26 -46 0
+c id 322 type at_most_one
+-26 -47 0
+c id 323 type at_most_one
+-26 -48 0
+c id 324 type at_most_one
+-27 -28 0
+c id 325 type at_most_one
+-27 -29 0
+c id 326 type at_most_one
+-27 -30 0
+c id 327 type at_most_one
+-27 -31 0
+c id 328 type at_most_one
+-27 -32 0
+c id 329 type at_most_one
+-27 -33 0
+c id 330 type at_most_one
+-27 -34 0
+c id 331 type at_most_one
+-27 -35 0
+c id 332 type at_most_one
+-27 -36 0
+c id 333 type at_most_one
+-27 -37 0
+c id 334 type at_most_one
+-27 -38 0
+c id 335 type at_most_one
+-27 -39 0
+c id 336 type at_most_one
+-27 -40 0
+c id 337 type at_most_one
+-27 -41 0
+c id 338 type at_most_one
+-27 -42 0
+c id 339 type at_most_one
+-27 -43 0
+c id 340 type at_most_one
+-27 -44 0
+c id 341 type at_most_one
+-27 -45 0
+c id 342 type at_most_one
+-27 -46 0
+c id 343 type at_most_one
+-27 -47 0
+c id 344 type at_most_one
+-27 -48 0
+c id 345 type at_most_one
+-28 -29 0
+c id 346 type at_most_one
+-28 -30 0
+c id 347 type at_most_one
+-28 -31 0
+c id 348 type at_most_one
+-28 -32 0
+c id 349 type at_most_one
+-28 -33 0
+c id 350 type at_most_one
+-28 -34 0
+c id 351 type at_most_one
+-28 -35 0
+c id 352 type at_most_one
+-28 -36 0
+c id 353 type at_most_one
+-28 -37 0
+c id 354 type at_most_one
+-28 -38 0
+c id 355 type at_most_one
+-28 -39 0
+c id 356 type at_most_one
+-28 -40 0
+c id 357 type at_most_one
+-28 -41 0
+c id 358 type at_most_one
+-28 -42 0
+c id 359 type at_most_one
+-28 -43 0
+c id 360 type at_most_one
+-28 -44 0
+c id 361 type at_most_one
+-28 -45 0
+c id 362 type at_most_one
+-28 -46 0
+c id 363 type at_most_one
+-28 -47 0
+c id 364 type at_most_one
+-28 -48 0
+c id 365 type at_most_one
+-29 -30 0
+c id 366 type at_most_one
+-29 -31 0
+c id 367 type at_most_one
+-29 -32 0
+c id 368 type at_most_one
+-29 -33 0
+c id 369 type at_most_one
+-29 -34 0
+c id 370 type at_most_one
+-29 -35 0
+c id 371 type at_most_one
+-29 -36 0
+c id 372 type at_most_one
+-29 -37 0
+c id 373 type at_most_one
+-29 -38 0
+c id 374 type at_most_one
+-29 -39 0
+c id 375 type at_most_one
+-29 -40 0
+c id 376 type at_most_one
+-29 -41 0
+c id 377 type at_most_one
+-29 -42 0
+c id 378 type at_most_one
+-29 -43 0
+c id 379 type at_most_one
+-29 -44 0
+c id 380 type at_most_one
+-29 -45 0
+c id 381 type at_most_one
+-29 -46 0
+c id 382 type at_most_one
+-29 -47 0
+c id 383 type at_most_one
+-29 -48 0
+c id 384 type at_most_one
+-30 -31 0
+c id 385 type at_most_one
+-30 -32 0
+c id 386 type at_most_one
+-30 -33 0
+c id 387 type at_most_one
+-30 -34 0
+c id 388 type at_most_one
+-30 -35 0
+c id 389 type at_most_one
+-30 -36 0
+c id 390 type at_most_one
+-30 -37 0
+c id 391 type at_most_one
+-30 -38 0
+c id 392 type at_most_one
+-30 -39 0
+c id 393 type at_most_one
+-30 -40 0
+c id 394 type at_most_one
+-30 -41 0
+c id 395 type at_most_one
+-30 -42 0
+c id 396 type at_most_one
+-30 -43 0
+c id 397 type at_most_one
+-30 -44 0
+c id 398 type at_most_one
+-30 -45 0
+c id 399 type at_most_one
+-30 -46 0
+c id 400 type at_most_one
+-30 -47 0
+c id 401 type at_most_one
+-30 -48 0
+c id 402 type at_most_one
+-31 -32 0
+c id 403 type at_most_one
+-31 -33 0
+c id 404 type at_most_one
+-31 -34 0
+c id 405 type at_most_one
+-31 -35 0
+c id 406 type at_most_one
+-31 -36 0
+c id 407 type at_most_one
+-31 -37 0
+c id 408 type at_most_one
+-31 -38 0
+c id 409 type at_most_one
+-31 -39 0
+c id 410 type at_most_one
+-31 -40 0
+c id 411 type at_most_one
+-31 -41 0
+c id 412 type at_most_one
+-31 -42 0
+c id 413 type at_most_one
+-31 -43 0
+c id 414 type at_most_one
+-31 -44 0
+c id 415 type at_most_one
+-31 -45 0
+c id 416 type at_most_one
+-31 -46 0
+c id 417 type at_most_one
+-31 -47 0
+c id 418 type at_most_one
+-31 -48 0
+c id 419 type at_most_one
+-32 -33 0
+c id 420 type at_most_one
+-32 -34 0
+c id 421 type at_most_one
+-32 -35 0
+c id 422 type at_most_one
+-32 -36 0
+c id 423 type at_most_one
+-32 -37 0
+c id 424 type at_most_one
+-32 -38 0
+c id 425 type at_most_one
+-32 -39 0
+c id 426 type at_most_one
+-32 -40 0
+c id 427 type at_most_one
+-32 -41 0
+c id 428 type at_most_one
+-32 -42 0
+c id 429 type at_most_one
+-32 -43 0
+c id 430 type at_most_one
+-32 -44 0
+c id 431 type at_most_one
+-32 -45 0
+c id 432 type at_most_one
+-32 -46 0
+c id 433 type at_most_one
+-32 -47 0
+c id 434 type at_most_one
+-32 -48 0
+c id 435 type at_most_one
+-33 -34 0
+c id 436 type at_most_one
+-33 -35 0
+c id 437 type at_most_one
+-33 -36 0
+c id 438 type at_most_one
+-33 -37 0
+c id 439 type at_most_one
+-33 -38 0
+c id 440 type at_most_one
+-33 -39 0
+c id 441 type at_most_one
+-33 -40 0
+c id 442 type at_most_one
+-33 -41 0
+c id 443 type at_most_one
+-33 -42 0
+c id 444 type at_most_one
+-33 -43 0
+c id 445 type at_most_one
+-33 -44 0
+c id 446 type at_most_one
+-33 -45 0
+c id 447 type at_most_one
+-33 -46 0
+c id 448 type at_most_one
+-33 -47 0
+c id 449 type at_most_one
+-33 -48 0
+c id 450 type at_most_one
+-34 -35 0
+c id 451 type at_most_one
+-34 -36 0
+c id 452 type at_most_one
+-34 -37 0
+c id 453 type at_most_one
+-34 -38 0
+c id 454 type at_most_one
+-34 -39 0
+c id 455 type at_most_one
+-34 -40 0
+c id 456 type at_most_one
+-34 -41 0
+c id 457 type at_most_one
+-34 -42 0
+c id 458 type at_most_one
+-34 -43 0
+c id 459 type at_most_one
+-34 -44 0
+c id 460 type at_most_one
+-34 -45 0
+c id 461 type at_most_one
+-34 -46 0
+c id 462 type at_most_one
+-34 -47 0
+c id 463 type at_most_one
+-34 -48 0
+c id 464 type at_most_one
+-35 -36 0
+c id 465 type at_most_one
+-35 -37 0
+c id 466 type at_most_one
+-35 -38 0
+c id 467 type at_most_one
+-35 -39 0
+c id 468 type at_most_one
+-35 -40 0
+c id 469 type at_most_one
+-35 -41 0
+c id 470 type at_most_one
+-35 -42 0
+c id 471 type at_most_one
+-35 -43 0
+c id 472 type at_most_one
+-35 -44 0
+c id 473 type at_most_one
+-35 -45 0
+c id 474 type at_most_one
+-35 -46 0
+c id 475 type at_most_one
+-35 -47 0
+c id 476 type at_most_one
+-35 -48 0
+c id 477 type at_most_one
+-36 -37 0
+c id 478 type at_most_one
+-36 -38 0
+c id 479 type at_most_one
+-36 -39 0
+c id 480 type at_most_one
+-36 -40 0
+c id 481 type at_most_one
+-36 -41 0
+c id 482 type at_most_one
+-36 -42 0
+c id 483 type at_most_one
+-36 -43 0
+c id 484 type at_most_one
+-36 -44 0
+c id 485 type at_most_one
+-36 -45 0
+c id 486 type at_most_one
+-36 -46 0
+c id 487 type at_most_one
+-36 -47 0
+c id 488 type at_most_one
+-36 -48 0
+c id 489 type at_most_one
+-37 -38 0
+c id 490 type at_most_one
+-37 -39 0
+c id 491 type at_most_one
+-37 -40 0
+c id 492 type at_most_one
+-37 -41 0
+c id 493 type at_most_one
+-37 -42 0
+c id 494 type at_most_one
+-37 -43 0
+c id 495 type at_most_one
+-37 -44 0
+c id 496 type at_most_one
+-37 -45 0
+c id 497 type at_most_one
+-37 -46 0
+c id 498 type at_most_one
+-37 -47 0
+c id 499 type at_most_one
+-37 -48 0
+c id 500 type at_most_one
+-38 -39 0
+c id 501 type at_most_one
+-38 -40 0
+c id 502 type at_most_one
+-38 -41 0
+c id 503 type at_most_one
+-38 -42 0
+c id 504 type at_most_one
+-38 -43 0
+c id 505 type at_most_one
+-38 -44 0
+c id 506 type at_most_one
+-38 -45 0
+c id 507 type at_most_one
+-38 -46 0
+c id 508 type at_most_one
+-38 -47 0
+c id 509 type at_most_one
+-38 -48 0
+c id 510 type at_most_one
+-39 -40 0
+c id 511 type at_most_one
+-39 -41 0
+c id 512 type at_most_one
+-39 -42 0
+c id 513 type at_most_one
+-39 -43 0
+c id 514 type at_most_one
+-39 -44 0
+c id 515 type at_most_one
+-39 -45 0
+c id 516 type at_most_one
+-39 -46 0
+c id 517 type at_most_one
+-39 -47 0
+c id 518 type at_most_one
+-39 -48 0
+c id 519 type at_most_one
+-40 -41 0
+c id 520 type at_most_one
+-40 -42 0
+c id 521 type at_most_one
+-40 -43 0
+c id 522 type at_most_one
+-40 -44 0
+c id 523 type at_most_one
+-40 -45 0
+c id 524 type at_most_one
+-40 -46 0
+c id 525 type at_most_one
+-40 -47 0
+c id 526 type at_most_one
+-40 -48 0
+c id 527 type at_most_one
+-41 -42 0
+c id 528 type at_most_one
+-41 -43 0
+c id 529 type at_most_one
+-41 -44 0
+c id 530 type at_most_one
+-41 -45 0
+c id 531 type at_most_one
+-41 -46 0
+c id 532 type at_most_one
+-41 -47 0
+c id 533 type at_most_one
+-41 -48 0
+c id 534 type at_most_one
+-42 -43 0
+c id 535 type at_most_one
+-42 -44 0
+c id 536 type at_most_one
+-42 -45 0
+c id 537 type at_most_one
+-42 -46 0
+c id 538 type at_most_one
+-42 -47 0
+c id 539 type at_most_one
+-42 -48 0
+c id 540 type at_most_one
+-43 -44 0
+c id 541 type at_most_one
+-43 -45 0
+c id 542 type at_most_one
+-43 -46 0
+c id 543 type at_most_one
+-43 -47 0
+c id 544 type at_most_one
+-43 -48 0
+c id 545 type at_most_one
+-44 -45 0
+c id 546 type at_most_one
+-44 -46 0
+c id 547 type at_most_one
+-44 -47 0
+c id 548 type at_most_one
+-44 -48 0
+c id 549 type at_most_one
+-45 -46 0
+c id 550 type at_most_one
+-45 -47 0
+c id 551 type at_most_one
+-45 -48 0
+c id 552 type at_most_one
+-46 -47 0
+c id 553 type at_most_one
+-46 -48 0
+c id 554 type at_most_one
+-47 -48 0
+c id 555 type at_least_one
+49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 0
+c id 556 type at_most_one
+-49 -50 0
+c id 557 type at_most_one
+-49 -51 0
+c id 558 type at_most_one
+-49 -52 0
+c id 559 type at_most_one
+-49 -53 0
+c id 560 type at_most_one
+-49 -54 0
+c id 561 type at_most_one
+-49 -55 0
+c id 562 type at_most_one
+-49 -56 0
+c id 563 type at_most_one
+-49 -57 0
+c id 564 type at_most_one
+-49 -58 0
+c id 565 type at_most_one
+-49 -59 0
+c id 566 type at_most_one
+-49 -60 0
+c id 567 type at_most_one
+-49 -61 0
+c id 568 type at_most_one
+-49 -62 0
+c id 569 type at_most_one
+-49 -63 0
+c id 570 type at_most_one
+-49 -64 0
+c id 571 type at_most_one
+-49 -65 0
+c id 572 type at_most_one
+-49 -66 0
+c id 573 type at_most_one
+-49 -67 0
+c id 574 type at_most_one
+-49 -68 0
+c id 575 type at_most_one
+-49 -69 0
+c id 576 type at_most_one
+-49 -70 0
+c id 577 type at_most_one
+-49 -71 0
+c id 578 type at_most_one
+-49 -72 0
+c id 579 type at_most_one
+-50 -51 0
+c id 580 type at_most_one
+-50 -52 0
+c id 581 type at_most_one
+-50 -53 0
+c id 582 type at_most_one
+-50 -54 0
+c id 583 type at_most_one
+-50 -55 0
+c id 584 type at_most_one
+-50 -56 0
+c id 585 type at_most_one
+-50 -57 0
+c id 586 type at_most_one
+-50 -58 0
+c id 587 type at_most_one
+-50 -59 0
+c id 588 type at_most_one
+-50 -60 0
+c id 589 type at_most_one
+-50 -61 0
+c id 590 type at_most_one
+-50 -62 0
+c id 591 type at_most_one
+-50 -63 0
+c id 592 type at_most_one
+-50 -64 0
+c id 593 type at_most_one
+-50 -65 0
+c id 594 type at_most_one
+-50 -66 0
+c id 595 type at_most_one
+-50 -67 0
+c id 596 type at_most_one
+-50 -68 0
+c id 597 type at_most_one
+-50 -69 0
+c id 598 type at_most_one
+-50 -70 0
+c id 599 type at_most_one
+-50 -71 0
+c id 600 type at_most_one
+-50 -72 0
+c id 601 type at_most_one
+-51 -52 0
+c id 602 type at_most_one
+-51 -53 0
+c id 603 type at_most_one
+-51 -54 0
+c id 604 type at_most_one
+-51 -55 0
+c id 605 type at_most_one
+-51 -56 0
+c id 606 type at_most_one
+-51 -57 0
+c id 607 type at_most_one
+-51 -58 0
+c id 608 type at_most_one
+-51 -59 0
+c id 609 type at_most_one
+-51 -60 0
+c id 610 type at_most_one
+-51 -61 0
+c id 611 type at_most_one
+-51 -62 0
+c id 612 type at_most_one
+-51 -63 0
+c id 613 type at_most_one
+-51 -64 0
+c id 614 type at_most_one
+-51 -65 0
+c id 615 type at_most_one
+-51 -66 0
+c id 616 type at_most_one
+-51 -67 0
+c id 617 type at_most_one
+-51 -68 0
+c id 618 type at_most_one
+-51 -69 0
+c id 619 type at_most_one
+-51 -70 0
+c id 620 type at_most_one
+-51 -71 0
+c id 621 type at_most_one
+-51 -72 0
+c id 622 type at_most_one
+-52 -53 0
+c id 623 type at_most_one
+-52 -54 0
+c id 624 type at_most_one
+-52 -55 0
+c id 625 type at_most_one
+-52 -56 0
+c id 626 type at_most_one
+-52 -57 0
+c id 627 type at_most_one
+-52 -58 0
+c id 628 type at_most_one
+-52 -59 0
+c id 629 type at_most_one
+-52 -60 0
+c id 630 type at_most_one
+-52 -61 0
+c id 631 type at_most_one
+-52 -62 0
+c id 632 type at_most_one
+-52 -63 0
+c id 633 type at_most_one
+-52 -64 0
+c id 634 type at_most_one
+-52 -65 0
+c id 635 type at_most_one
+-52 -66 0
+c id 636 type at_most_one
+-52 -67 0
+c id 637 type at_most_one
+-52 -68 0
+c id 638 type at_most_one
+-52 -69 0
+c id 639 type at_most_one
+-52 -70 0
+c id 640 type at_most_one
+-52 -71 0
+c id 641 type at_most_one
+-52 -72 0
+c id 642 type at_most_one
+-53 -54 0
+c id 643 type at_most_one
+-53 -55 0
+c id 644 type at_most_one
+-53 -56 0
+c id 645 type at_most_one
+-53 -57 0
+c id 646 type at_most_one
+-53 -58 0
+c id 647 type at_most_one
+-53 -59 0
+c id 648 type at_most_one
+-53 -60 0
+c id 649 type at_most_one
+-53 -61 0
+c id 650 type at_most_one
+-53 -62 0
+c id 651 type at_most_one
+-53 -63 0
+c id 652 type at_most_one
+-53 -64 0
+c id 653 type at_most_one
+-53 -65 0
+c id 654 type at_most_one
+-53 -66 0
+c id 655 type at_most_one
+-53 -67 0
+c id 656 type at_most_one
+-53 -68 0
+c id 657 type at_most_one
+-53 -69 0
+c id 658 type at_most_one
+-53 -70 0
+c id 659 type at_most_one
+-53 -71 0
+c id 660 type at_most_one
+-53 -72 0
+c id 661 type at_most_one
+-54 -55 0
+c id 662 type at_most_one
+-54 -56 0
+c id 663 type at_most_one
+-54 -57 0
+c id 664 type at_most_one
+-54 -58 0
+c id 665 type at_most_one
+-54 -59 0
+c id 666 type at_most_one
+-54 -60 0
+c id 667 type at_most_one
+-54 -61 0
+c id 668 type at_most_one
+-54 -62 0
+c id 669 type at_most_one
+-54 -63 0
+c id 670 type at_most_one
+-54 -64 0
+c id 671 type at_most_one
+-54 -65 0
+c id 672 type at_most_one
+-54 -66 0
+c id 673 type at_most_one
+-54 -67 0
+c id 674 type at_most_one
+-54 -68 0
+c id 675 type at_most_one
+-54 -69 0
+c id 676 type at_most_one
+-54 -70 0
+c id 677 type at_most_one
+-54 -71 0
+c id 678 type at_most_one
+-54 -72 0
+c id 679 type at_most_one
+-55 -56 0
+c id 680 type at_most_one
+-55 -57 0
+c id 681 type at_most_one
+-55 -58 0
+c id 682 type at_most_one
+-55 -59 0
+c id 683 type at_most_one
+-55 -60 0
+c id 684 type at_most_one
+-55 -61 0
+c id 685 type at_most_one
+-55 -62 0
+c id 686 type at_most_one
+-55 -63 0
+c id 687 type at_most_one
+-55 -64 0
+c id 688 type at_most_one
+-55 -65 0
+c id 689 type at_most_one
+-55 -66 0
+c id 690 type at_most_one
+-55 -67 0
+c id 691 type at_most_one
+-55 -68 0
+c id 692 type at_most_one
+-55 -69 0
+c id 693 type at_most_one
+-55 -70 0
+c id 694 type at_most_one
+-55 -71 0
+c id 695 type at_most_one
+-55 -72 0
+c id 696 type at_most_one
+-56 -57 0
+c id 697 type at_most_one
+-56 -58 0
+c id 698 type at_most_one
+-56 -59 0
+c id 699 type at_most_one
+-56 -60 0
+c id 700 type at_most_one
+-56 -61 0
+c id 701 type at_most_one
+-56 -62 0
+c id 702 type at_most_one
+-56 -63 0
+c id 703 type at_most_one
+-56 -64 0
+c id 704 type at_most_one
+-56 -65 0
+c id 705 type at_most_one
+-56 -66 0
+c id 706 type at_most_one
+-56 -67 0
+c id 707 type at_most_one
+-56 -68 0
+c id 708 type at_most_one
+-56 -69 0
+c id 709 type at_most_one
+-56 -70 0
+c id 710 type at_most_one
+-56 -71 0
+c id 711 type at_most_one
+-56 -72 0
+c id 712 type at_most_one
+-57 -58 0
+c id 713 type at_most_one
+-57 -59 0
+c id 714 type at_most_one
+-57 -60 0
+c id 715 type at_most_one
+-57 -61 0
+c id 716 type at_most_one
+-57 -62 0
+c id 717 type at_most_one
+-57 -63 0
+c id 718 type at_most_one
+-57 -64 0
+c id 719 type at_most_one
+-57 -65 0
+c id 720 type at_most_one
+-57 -66 0
+c id 721 type at_most_one
+-57 -67 0
+c id 722 type at_most_one
+-57 -68 0
+c id 723 type at_most_one
+-57 -69 0
+c id 724 type at_most_one
+-57 -70 0
+c id 725 type at_most_one
+-57 -71 0
+c id 726 type at_most_one
+-57 -72 0
+c id 727 type at_most_one
+-58 -59 0
+c id 728 type at_most_one
+-58 -60 0
+c id 729 type at_most_one
+-58 -61 0
+c id 730 type at_most_one
+-58 -62 0
+c id 731 type at_most_one
+-58 -63 0
+c id 732 type at_most_one
+-58 -64 0
+c id 733 type at_most_one
+-58 -65 0
+c id 734 type at_most_one
+-58 -66 0
+c id 735 type at_most_one
+-58 -67 0
+c id 736 type at_most_one
+-58 -68 0
+c id 737 type at_most_one
+-58 -69 0
+c id 738 type at_most_one
+-58 -70 0
+c id 739 type at_most_one
+-58 -71 0
+c id 740 type at_most_one
+-58 -72 0
+c id 741 type at_most_one
+-59 -60 0
+c id 742 type at_most_one
+-59 -61 0
+c id 743 type at_most_one
+-59 -62 0
+c id 744 type at_most_one
+-59 -63 0
+c id 745 type at_most_one
+-59 -64 0
+c id 746 type at_most_one
+-59 -65 0
+c id 747 type at_most_one
+-59 -66 0
+c id 748 type at_most_one
+-59 -67 0
+c id 749 type at_most_one
+-59 -68 0
+c id 750 type at_most_one
+-59 -69 0
+c id 751 type at_most_one
+-59 -70 0
+c id 752 type at_most_one
+-59 -71 0
+c id 753 type at_most_one
+-59 -72 0
+c id 754 type at_most_one
+-60 -61 0
+c id 755 type at_most_one
+-60 -62 0
+c id 756 type at_most_one
+-60 -63 0
+c id 757 type at_most_one
+-60 -64 0
+c id 758 type at_most_one
+-60 -65 0
+c id 759 type at_most_one
+-60 -66 0
+c id 760 type at_most_one
+-60 -67 0
+c id 761 type at_most_one
+-60 -68 0
+c id 762 type at_most_one
+-60 -69 0
+c id 763 type at_most_one
+-60 -70 0
+c id 764 type at_most_one
+-60 -71 0
+c id 765 type at_most_one
+-60 -72 0
+c id 766 type at_most_one
+-61 -62 0
+c id 767 type at_most_one
+-61 -63 0
+c id 768 type at_most_one
+-61 -64 0
+c id 769 type at_most_one
+-61 -65 0
+c id 770 type at_most_one
+-61 -66 0
+c id 771 type at_most_one
+-61 -67 0
+c id 772 type at_most_one
+-61 -68 0
+c id 773 type at_most_one
+-61 -69 0
+c id 774 type at_most_one
+-61 -70 0
+c id 775 type at_most_one
+-61 -71 0
+c id 776 type at_most_one
+-61 -72 0
+c id 777 type at_most_one
+-62 -63 0
+c id 778 type at_most_one
+-62 -64 0
+c id 779 type at_most_one
+-62 -65 0
+c id 780 type at_most_one
+-62 -66 0
+c id 781 type at_most_one
+-62 -67 0
+c id 782 type at_most_one
+-62 -68 0
+c id 783 type at_most_one
+-62 -69 0
+c id 784 type at_most_one
+-62 -70 0
+c id 785 type at_most_one
+-62 -71 0
+c id 786 type at_most_one
+-62 -72 0
+c id 787 type at_most_one
+-63 -64 0
+c id 788 type at_most_one
+-63 -65 0
+c id 789 type at_most_one
+-63 -66 0
+c id 790 type at_most_one
+-63 -67 0
+c id 791 type at_most_one
+-63 -68 0
+c id 792 type at_most_one
+-63 -69 0
+c id 793 type at_most_one
+-63 -70 0
+c id 794 type at_most_one
+-63 -71 0
+c id 795 type at_most_one
+-63 -72 0
+c id 796 type at_most_one
+-64 -65 0
+c id 797 type at_most_one
+-64 -66 0
+c id 798 type at_most_one
+-64 -67 0
+c id 799 type at_most_one
+-64 -68 0
+c id 800 type at_most_one
+-64 -69 0
+c id 801 type at_most_one
+-64 -70 0
+c id 802 type at_most_one
+-64 -71 0
+c id 803 type at_most_one
+-64 -72 0
+c id 804 type at_most_one
+-65 -66 0
+c id 805 type at_most_one
+-65 -67 0
+c id 806 type at_most_one
+-65 -68 0
+c id 807 type at_most_one
+-65 -69 0
+c id 808 type at_most_one
+-65 -70 0
+c id 809 type at_most_one
+-65 -71 0
+c id 810 type at_most_one
+-65 -72 0
+c id 811 type at_most_one
+-66 -67 0
+c id 812 type at_most_one
+-66 -68 0
+c id 813 type at_most_one
+-66 -69 0
+c id 814 type at_most_one
+-66 -70 0
+c id 815 type at_most_one
+-66 -71 0
+c id 816 type at_most_one
+-66 -72 0
+c id 817 type at_most_one
+-67 -68 0
+c id 818 type at_most_one
+-67 -69 0
+c id 819 type at_most_one
+-67 -70 0
+c id 820 type at_most_one
+-67 -71 0
+c id 821 type at_most_one
+-67 -72 0
+c id 822 type at_most_one
+-68 -69 0
+c id 823 type at_most_one
+-68 -70 0
+c id 824 type at_most_one
+-68 -71 0
+c id 825 type at_most_one
+-68 -72 0
+c id 826 type at_most_one
+-69 -70 0
+c id 827 type at_most_one
+-69 -71 0
+c id 828 type at_most_one
+-69 -72 0
+c id 829 type at_most_one
+-70 -71 0
+c id 830 type at_most_one
+-70 -72 0
+c id 831 type at_most_one
+-71 -72 0
+c id 832 type at_least_one
+73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 0
+c id 833 type at_most_one
+-73 -74 0
+c id 834 type at_most_one
+-73 -75 0
+c id 835 type at_most_one
+-73 -76 0
+c id 836 type at_most_one
+-73 -77 0
+c id 837 type at_most_one
+-73 -78 0
+c id 838 type at_most_one
+-73 -79 0
+c id 839 type at_most_one
+-73 -80 0
+c id 840 type at_most_one
+-73 -81 0
+c id 841 type at_most_one
+-73 -82 0
+c id 842 type at_most_one
+-73 -83 0
+c id 843 type at_most_one
+-73 -84 0
+c id 844 type at_most_one
+-73 -85 0
+c id 845 type at_most_one
+-73 -86 0
+c id 846 type at_most_one
+-73 -87 0
+c id 847 type at_most_one
+-73 -88 0
+c id 848 type at_most_one
+-73 -89 0
+c id 849 type at_most_one
+-73 -90 0
+c id 850 type at_most_one
+-73 -91 0
+c id 851 type at_most_one
+-73 -92 0
+c id 852 type at_most_one
+-73 -93 0
+c id 853 type at_most_one
+-73 -94 0
+c id 854 type at_most_one
+-73 -95 0
+c id 855 type at_most_one
+-73 -96 0
+c id 856 type at_most_one
+-74 -75 0
+c id 857 type at_most_one
+-74 -76 0
+c id 858 type at_most_one
+-74 -77 0
+c id 859 type at_most_one
+-74 -78 0
+c id 860 type at_most_one
+-74 -79 0
+c id 861 type at_most_one
+-74 -80 0
+c id 862 type at_most_one
+-74 -81 0
+c id 863 type at_most_one
+-74 -82 0
+c id 864 type at_most_one
+-74 -83 0
+c id 865 type at_most_one
+-74 -84 0
+c id 866 type at_most_one
+-74 -85 0
+c id 867 type at_most_one
+-74 -86 0
+c id 868 type at_most_one
+-74 -87 0
+c id 869 type at_most_one
+-74 -88 0
+c id 870 type at_most_one
+-74 -89 0
+c id 871 type at_most_one
+-74 -90 0
+c id 872 type at_most_one
+-74 -91 0
+c id 873 type at_most_one
+-74 -92 0
+c id 874 type at_most_one
+-74 -93 0
+c id 875 type at_most_one
+-74 -94 0
+c id 876 type at_most_one
+-74 -95 0
+c id 877 type at_most_one
+-74 -96 0
+c id 878 type at_most_one
+-75 -76 0
+c id 879 type at_most_one
+-75 -77 0
+c id 880 type at_most_one
+-75 -78 0
+c id 881 type at_most_one
+-75 -79 0
+c id 882 type at_most_one
+-75 -80 0
+c id 883 type at_most_one
+-75 -81 0
+c id 884 type at_most_one
+-75 -82 0
+c id 885 type at_most_one
+-75 -83 0
+c id 886 type at_most_one
+-75 -84 0
+c id 887 type at_most_one
+-75 -85 0
+c id 888 type at_most_one
+-75 -86 0
+c id 889 type at_most_one
+-75 -87 0
+c id 890 type at_most_one
+-75 -88 0
+c id 891 type at_most_one
+-75 -89 0
+c id 892 type at_most_one
+-75 -90 0
+c id 893 type at_most_one
+-75 -91 0
+c id 894 type at_most_one
+-75 -92 0
+c id 895 type at_most_one
+-75 -93 0
+c id 896 type at_most_one
+-75 -94 0
+c id 897 type at_most_one
+-75 -95 0
+c id 898 type at_most_one
+-75 -96 0
+c id 899 type at_most_one
+-76 -77 0
+c id 900 type at_most_one
+-76 -78 0
+c id 901 type at_most_one
+-76 -79 0
+c id 902 type at_most_one
+-76 -80 0
+c id 903 type at_most_one
+-76 -81 0
+c id 904 type at_most_one
+-76 -82 0
+c id 905 type at_most_one
+-76 -83 0
+c id 906 type at_most_one
+-76 -84 0
+c id 907 type at_most_one
+-76 -85 0
+c id 908 type at_most_one
+-76 -86 0
+c id 909 type at_most_one
+-76 -87 0
+c id 910 type at_most_one
+-76 -88 0
+c id 911 type at_most_one
+-76 -89 0
+c id 912 type at_most_one
+-76 -90 0
+c id 913 type at_most_one
+-76 -91 0
+c id 914 type at_most_one
+-76 -92 0
+c id 915 type at_most_one
+-76 -93 0
+c id 916 type at_most_one
+-76 -94 0
+c id 917 type at_most_one
+-76 -95 0
+c id 918 type at_most_one
+-76 -96 0
+c id 919 type at_most_one
+-77 -78 0
+c id 920 type at_most_one
+-77 -79 0
+c id 921 type at_most_one
+-77 -80 0
+c id 922 type at_most_one
+-77 -81 0
+c id 923 type at_most_one
+-77 -82 0
+c id 924 type at_most_one
+-77 -83 0
+c id 925 type at_most_one
+-77 -84 0
+c id 926 type at_most_one
+-77 -85 0
+c id 927 type at_most_one
+-77 -86 0
+c id 928 type at_most_one
+-77 -87 0
+c id 929 type at_most_one
+-77 -88 0
+c id 930 type at_most_one
+-77 -89 0
+c id 931 type at_most_one
+-77 -90 0
+c id 932 type at_most_one
+-77 -91 0
+c id 933 type at_most_one
+-77 -92 0
+c id 934 type at_most_one
+-77 -93 0
+c id 935 type at_most_one
+-77 -94 0
+c id 936 type at_most_one
+-77 -95 0
+c id 937 type at_most_one
+-77 -96 0
+c id 938 type at_most_one
+-78 -79 0
+c id 939 type at_most_one
+-78 -80 0
+c id 940 type at_most_one
+-78 -81 0
+c id 941 type at_most_one
+-78 -82 0
+c id 942 type at_most_one
+-78 -83 0
+c id 943 type at_most_one
+-78 -84 0
+c id 944 type at_most_one
+-78 -85 0
+c id 945 type at_most_one
+-78 -86 0
+c id 946 type at_most_one
+-78 -87 0
+c id 947 type at_most_one
+-78 -88 0
+c id 948 type at_most_one
+-78 -89 0
+c id 949 type at_most_one
+-78 -90 0
+c id 950 type at_most_one
+-78 -91 0
+c id 951 type at_most_one
+-78 -92 0
+c id 952 type at_most_one
+-78 -93 0
+c id 953 type at_most_one
+-78 -94 0
+c id 954 type at_most_one
+-78 -95 0
+c id 955 type at_most_one
+-78 -96 0
+c id 956 type at_most_one
+-79 -80 0
+c id 957 type at_most_one
+-79 -81 0
+c id 958 type at_most_one
+-79 -82 0
+c id 959 type at_most_one
+-79 -83 0
+c id 960 type at_most_one
+-79 -84 0
+c id 961 type at_most_one
+-79 -85 0
+c id 962 type at_most_one
+-79 -86 0
+c id 963 type at_most_one
+-79 -87 0
+c id 964 type at_most_one
+-79 -88 0
+c id 965 type at_most_one
+-79 -89 0
+c id 966 type at_most_one
+-79 -90 0
+c id 967 type at_most_one
+-79 -91 0
+c id 968 type at_most_one
+-79 -92 0
+c id 969 type at_most_one
+-79 -93 0
+c id 970 type at_most_one
+-79 -94 0
+c id 971 type at_most_one
+-79 -95 0
+c id 972 type at_most_one
+-79 -96 0
+c id 973 type at_most_one
+-80 -81 0
+c id 974 type at_most_one
+-80 -82 0
+c id 975 type at_most_one
+-80 -83 0
+c id 976 type at_most_one
+-80 -84 0
+c id 977 type at_most_one
+-80 -85 0
+c id 978 type at_most_one
+-80 -86 0
+c id 979 type at_most_one
+-80 -87 0
+c id 980 type at_most_one
+-80 -88 0
+c id 981 type at_most_one
+-80 -89 0
+c id 982 type at_most_one
+-80 -90 0
+c id 983 type at_most_one
+-80 -91 0
+c id 984 type at_most_one
+-80 -92 0
+c id 985 type at_most_one
+-80 -93 0
+c id 986 type at_most_one
+-80 -94 0
+c id 987 type at_most_one
+-80 -95 0
+c id 988 type at_most_one
+-80 -96 0
+c id 989 type at_most_one
+-81 -82 0
+c id 990 type at_most_one
+-81 -83 0
+c id 991 type at_most_one
+-81 -84 0
+c id 992 type at_most_one
+-81 -85 0
+c id 993 type at_most_one
+-81 -86 0
+c id 994 type at_most_one
+-81 -87 0
+c id 995 type at_most_one
+-81 -88 0
+c id 996 type at_most_one
+-81 -89 0
+c id 997 type at_most_one
+-81 -90 0
+c id 998 type at_most_one
+-81 -91 0
+c id 999 type at_most_one
+-81 -92 0
+c id 1000 type at_most_one
+-81 -93 0
+c id 1001 type at_most_one
+-81 -94 0
+c id 1002 type at_most_one
+-81 -95 0
+c id 1003 type at_most_one
+-81 -96 0
+c id 1004 type at_most_one
+-82 -83 0
+c id 1005 type at_most_one
+-82 -84 0
+c id 1006 type at_most_one
+-82 -85 0
+c id 1007 type at_most_one
+-82 -86 0
+c id 1008 type at_most_one
+-82 -87 0
+c id 1009 type at_most_one
+-82 -88 0
+c id 1010 type at_most_one
+-82 -89 0
+c id 1011 type at_most_one
+-82 -90 0
+c id 1012 type at_most_one
+-82 -91 0
+c id 1013 type at_most_one
+-82 -92 0
+c id 1014 type at_most_one
+-82 -93 0
+c id 1015 type at_most_one
+-82 -94 0
+c id 1016 type at_most_one
+-82 -95 0
+c id 1017 type at_most_one
+-82 -96 0
+c id 1018 type at_most_one
+-83 -84 0
+c id 1019 type at_most_one
+-83 -85 0
+c id 1020 type at_most_one
+-83 -86 0
+c id 1021 type at_most_one
+-83 -87 0
+c id 1022 type at_most_one
+-83 -88 0
+c id 1023 type at_most_one
+-83 -89 0
+c id 1024 type at_most_one
+-83 -90 0
+c id 1025 type at_most_one
+-83 -91 0
+c id 1026 type at_most_one
+-83 -92 0
+c id 1027 type at_most_one
+-83 -93 0
+c id 1028 type at_most_one
+-83 -94 0
+c id 1029 type at_most_one
+-83 -95 0
+c id 1030 type at_most_one
+-83 -96 0
+c id 1031 type at_most_one
+-84 -85 0
+c id 1032 type at_most_one
+-84 -86 0
+c id 1033 type at_most_one
+-84 -87 0
+c id 1034 type at_most_one
+-84 -88 0
+c id 1035 type at_most_one
+-84 -89 0
+c id 1036 type at_most_one
+-84 -90 0
+c id 1037 type at_most_one
+-84 -91 0
+c id 1038 type at_most_one
+-84 -92 0
+c id 1039 type at_most_one
+-84 -93 0
+c id 1040 type at_most_one
+-84 -94 0
+c id 1041 type at_most_one
+-84 -95 0
+c id 1042 type at_most_one
+-84 -96 0
+c id 1043 type at_most_one
+-85 -86 0
+c id 1044 type at_most_one
+-85 -87 0
+c id 1045 type at_most_one
+-85 -88 0
+c id 1046 type at_most_one
+-85 -89 0
+c id 1047 type at_most_one
+-85 -90 0
+c id 1048 type at_most_one
+-85 -91 0
+c id 1049 type at_most_one
+-85 -92 0
+c id 1050 type at_most_one
+-85 -93 0
+c id 1051 type at_most_one
+-85 -94 0
+c id 1052 type at_most_one
+-85 -95 0
+c id 1053 type at_most_one
+-85 -96 0
+c id 1054 type at_most_one
+-86 -87 0
+c id 1055 type at_most_one
+-86 -88 0
+c id 1056 type at_most_one
+-86 -89 0
+c id 1057 type at_most_one
+-86 -90 0
+c id 1058 type at_most_one
+-86 -91 0
+c id 1059 type at_most_one
+-86 -92 0
+c id 1060 type at_most_one
+-86 -93 0
+c id 1061 type at_most_one
+-86 -94 0
+c id 1062 type at_most_one
+-86 -95 0
+c id 1063 type at_most_one
+-86 -96 0
+c id 1064 type at_most_one
+-87 -88 0
+c id 1065 type at_most_one
+-87 -89 0
+c id 1066 type at_most_one
+-87 -90 0
+c id 1067 type at_most_one
+-87 -91 0
+c id 1068 type at_most_one
+-87 -92 0
+c id 1069 type at_most_one
+-87 -93 0
+c id 1070 type at_most_one
+-87 -94 0
+c id 1071 type at_most_one
+-87 -95 0
+c id 1072 type at_most_one
+-87 -96 0
+c id 1073 type at_most_one
+-88 -89 0
+c id 1074 type at_most_one
+-88 -90 0
+c id 1075 type at_most_one
+-88 -91 0
+c id 1076 type at_most_one
+-88 -92 0
+c id 1077 type at_most_one
+-88 -93 0
+c id 1078 type at_most_one
+-88 -94 0
+c id 1079 type at_most_one
+-88 -95 0
+c id 1080 type at_most_one
+-88 -96 0
+c id 1081 type at_most_one
+-89 -90 0
+c id 1082 type at_most_one
+-89 -91 0
+c id 1083 type at_most_one
+-89 -92 0
+c id 1084 type at_most_one
+-89 -93 0
+c id 1085 type at_most_one
+-89 -94 0
+c id 1086 type at_most_one
+-89 -95 0
+c id 1087 type at_most_one
+-89 -96 0
+c id 1088 type at_most_one
+-90 -91 0
+c id 1089 type at_most_one
+-90 -92 0
+c id 1090 type at_most_one
+-90 -93 0
+c id 1091 type at_most_one
+-90 -94 0
+c id 1092 type at_most_one
+-90 -95 0
+c id 1093 type at_most_one
+-90 -96 0
+c id 1094 type at_most_one
+-91 -92 0
+c id 1095 type at_most_one
+-91 -93 0
+c id 1096 type at_most_one
+-91 -94 0
+c id 1097 type at_most_one
+-91 -95 0
+c id 1098 type at_most_one
+-91 -96 0
+c id 1099 type at_most_one
+-92 -93 0
+c id 1100 type at_most_one
+-92 -94 0
+c id 1101 type at_most_one
+-92 -95 0
+c id 1102 type at_most_one
+-92 -96 0
+c id 1103 type at_most_one
+-93 -94 0
+c id 1104 type at_most_one
+-93 -95 0
+c id 1105 type at_most_one
+-93 -96 0
+c id 1106 type at_most_one
+-94 -95 0
+c id 1107 type at_most_one
+-94 -96 0
+c id 1108 type at_most_one
+-95 -96 0
+c id 1109 type mutual_exclusion
+-1 -25 0
+c id 1110 type mutual_exclusion
+-1 -49 0
+c id 1111 type mutual_exclusion
+-1 -73 0
+c id 1112 type mutual_exclusion
+-25 -49 0
+c id 1113 type mutual_exclusion
+-25 -73 0
+c id 1114 type mutual_exclusion
+-49 -73 0
+c id 1115 type mutual_exclusion
+-2 -26 0
+c id 1116 type mutual_exclusion
+-2 -50 0
+c id 1117 type mutual_exclusion
+-2 -74 0
+c id 1118 type mutual_exclusion
+-26 -50 0
+c id 1119 type mutual_exclusion
+-26 -74 0
+c id 1120 type mutual_exclusion
+-50 -74 0
+c id 1121 type mutual_exclusion
+-3 -27 0
+c id 1122 type mutual_exclusion
+-3 -51 0
+c id 1123 type mutual_exclusion
+-3 -75 0
+c id 1124 type mutual_exclusion
+-27 -51 0
+c id 1125 type mutual_exclusion
+-27 -75 0
+c id 1126 type mutual_exclusion
+-51 -75 0
+c id 1127 type mutual_exclusion
+-4 -28 0
+c id 1128 type mutual_exclusion
+-4 -52 0
+c id 1129 type mutual_exclusion
+-4 -76 0
+c id 1130 type mutual_exclusion
+-28 -52 0
+c id 1131 type mutual_exclusion
+-28 -76 0
+c id 1132 type mutual_exclusion
+-52 -76 0
+c id 1133 type mutual_exclusion
+-5 -29 0
+c id 1134 type mutual_exclusion
+-5 -53 0
+c id 1135 type mutual_exclusion
+-5 -77 0
+c id 1136 type mutual_exclusion
+-29 -53 0
+c id 1137 type mutual_exclusion
+-29 -77 0
+c id 1138 type mutual_exclusion
+-53 -77 0
+c id 1139 type mutual_exclusion
+-6 -30 0
+c id 1140 type mutual_exclusion
+-6 -54 0
+c id 1141 type mutual_exclusion
+-6 -78 0
+c id 1142 type mutual_exclusion
+-30 -54 0
+c id 1143 type mutual_exclusion
+-30 -78 0
+c id 1144 type mutual_exclusion
+-54 -78 0
+c id 1145 type mutual_exclusion
+-7 -31 0
+c id 1146 type mutual_exclusion
+-7 -55 0
+c id 1147 type mutual_exclusion
+-7 -79 0
+c id 1148 type mutual_exclusion
+-31 -55 0
+c id 1149 type mutual_exclusion
+-31 -79 0
+c id 1150 type mutual_exclusion
+-55 -79 0
+c id 1151 type mutual_exclusion
+-8 -32 0
+c id 1152 type mutual_exclusion
+-8 -56 0
+c id 1153 type mutual_exclusion
+-8 -80 0
+c id 1154 type mutual_exclusion
+-32 -56 0
+c id 1155 type mutual_exclusion
+-32 -80 0
+c id 1156 type mutual_exclusion
+-56 -80 0
+c id 1157 type mutual_exclusion
+-9 -33 0
+c id 1158 type mutual_exclusion
+-9 -57 0
+c id 1159 type mutual_exclusion
+-9 -81 0
+c id 1160 type mutual_exclusion
+-33 -57 0
+c id 1161 type mutual_exclusion
+-33 -81 0
+c id 1162 type mutual_exclusion
+-57 -81 0
+c id 1163 type mutual_exclusion
+-10 -34 0
+c id 1164 type mutual_exclusion
+-10 -58 0
+c id 1165 type mutual_exclusion
+-10 -82 0
+c id 1166 type mutual_exclusion
+-34 -58 0
+c id 1167 type mutual_exclusion
+-34 -82 0
+c id 1168 type mutual_exclusion
+-58 -82 0
+c id 1169 type mutual_exclusion
+-11 -35 0
+c id 1170 type mutual_exclusion
+-11 -59 0
+c id 1171 type mutual_exclusion
+-11 -83 0
+c id 1172 type mutual_exclusion
+-35 -59 0
+c id 1173 type mutual_exclusion
+-35 -83 0
+c id 1174 type mutual_exclusion
+-59 -83 0
+c id 1175 type mutual_exclusion
+-12 -36 0
+c id 1176 type mutual_exclusion
+-12 -60 0
+c id 1177 type mutual_exclusion
+-12 -84 0
+c id 1178 type mutual_exclusion
+-36 -60 0
+c id 1179 type mutual_exclusion
+-36 -84 0
+c id 1180 type mutual_exclusion
+-60 -84 0
+c id 1181 type mutual_exclusion
+-13 -37 0
+c id 1182 type mutual_exclusion
+-13 -61 0
+c id 1183 type mutual_exclusion
+-13 -85 0
+c id 1184 type mutual_exclusion
+-37 -61 0
+c id 1185 type mutual_exclusion
+-37 -85 0
+c id 1186 type mutual_exclusion
+-61 -85 0
+c id 1187 type mutual_exclusion
+-14 -38 0
+c id 1188 type mutual_exclusion
+-14 -62 0
+c id 1189 type mutual_exclusion
+-14 -86 0
+c id 1190 type mutual_exclusion
+-38 -62 0
+c id 1191 type mutual_exclusion
+-38 -86 0
+c id 1192 type mutual_exclusion
+-62 -86 0
+c id 1193 type mutual_exclusion
+-15 -39 0
+c id 1194 type mutual_exclusion
+-15 -63 0
+c id 1195 type mutual_exclusion
+-15 -87 0
+c id 1196 type mutual_exclusion
+-39 -63 0
+c id 1197 type mutual_exclusion
+-39 -87 0
+c id 1198 type mutual_exclusion
+-63 -87 0
+c id 1199 type mutual_exclusion
+-16 -40 0
+c id 1200 type mutual_exclusion
+-16 -64 0
+c id 1201 type mutual_exclusion
+-16 -88 0
+c id 1202 type mutual_exclusion
+-40 -64 0
+c id 1203 type mutual_exclusion
+-40 -88 0
+c id 1204 type mutual_exclusion
+-64 -88 0
+c id 1205 type mutual_exclusion
+-17 -41 0
+c id 1206 type mutual_exclusion
+-17 -65 0
+c id 1207 type mutual_exclusion
+-17 -89 0
+c id 1208 type mutual_exclusion
+-41 -65 0
+c id 1209 type mutual_exclusion
+-41 -89 0
+c id 1210 type mutual_exclusion
+-65 -89 0
+c id 1211 type mutual_exclusion
+-18 -42 0
+c id 1212 type mutual_exclusion
+-18 -66 0
+c id 1213 type mutual_exclusion
+-18 -90 0
+c id 1214 type mutual_exclusion
+-42 -66 0
+c id 1215 type mutual_exclusion
+-42 -90 0
+c id 1216 type mutual_exclusion
+-66 -90 0
+c id 1217 type mutual_exclusion
+-19 -43 0
+c id 1218 type mutual_exclusion
+-19 -67 0
+c id 1219 type mutual_exclusion
+-19 -91 0
+c id 1220 type mutual_exclusion
+-43 -67 0
+c id 1221 type mutual_exclusion
+-43 -91 0
+c id 1222 type mutual_exclusion
+-67 -91 0
+c id 1223 type mutual_exclusion
+-20 -44 0
+c id 1224 type mutual_exclusion
+-20 -68 0
+c id 1225 type mutual_exclusion
+-20 -92 0
+c id 1226 type mutual_exclusion
+-44 -68 0
+c id 1227 type mutual_exclusion
+-44 -92 0
+c id 1228 type mutual_exclusion
+-68 -92 0
+c id 1229 type mutual_exclusion
+-21 -45 0
+c id 1230 type mutual_exclusion
+-21 -69 0
+c id 1231 type mutual_exclusion
+-21 -93 0
+c id 1232 type mutual_exclusion
+-45 -69 0
+c id 1233 type mutual_exclusion
+-45 -93 0
+c id 1234 type mutual_exclusion
+-69 -93 0
+c id 1235 type mutual_exclusion
+-22 -46 0
+c id 1236 type mutual_exclusion
+-22 -70 0
+c id 1237 type mutual_exclusion
+-22 -94 0
+c id 1238 type mutual_exclusion
+-46 -70 0
+c id 1239 type mutual_exclusion
+-46 -94 0
+c id 1240 type mutual_exclusion
+-70 -94 0
+c id 1241 type mutual_exclusion
+-23 -47 0
+c id 1242 type mutual_exclusion
+-23 -71 0
+c id 1243 type mutual_exclusion
+-23 -95 0
+c id 1244 type mutual_exclusion
+-47 -71 0
+c id 1245 type mutual_exclusion
+-47 -95 0
+c id 1246 type mutual_exclusion
+-71 -95 0
+c id 1247 type mutual_exclusion
+-24 -48 0
+c id 1248 type mutual_exclusion
+-24 -72 0
+c id 1249 type mutual_exclusion
+-24 -96 0
+c id 1250 type mutual_exclusion
+-48 -72 0
+c id 1251 type mutual_exclusion
+-48 -96 0
+c id 1252 type mutual_exclusion
+-72 -96 0
+c id 1253 type edge_consistency
+-1 -73 0
+c id 1254 type edge_consistency
+-1 -76 0
+c id 1255 type edge_consistency
+-1 -77 0
+c id 1256 type edge_consistency
+-1 -78 0
+c id 1257 type edge_consistency
+-1 -80 0
+c id 1258 type edge_consistency
+-1 -81 0
+c id 1259 type edge_consistency
+-1 -82 0
+c id 1260 type edge_consistency
+-1 -83 0
+c id 1261 type edge_consistency
+-1 -84 0
+c id 1262 type edge_consistency
+-1 -85 0
+c id 1263 type edge_consistency
+-1 -86 0
+c id 1264 type edge_consistency
+-1 -87 0
+c id 1265 type edge_consistency
+-1 -88 0
+c id 1266 type edge_consistency
+-1 -89 0
+c id 1267 type edge_consistency
+-1 -90 0
+c id 1268 type edge_consistency
+-1 -91 0
+c id 1269 type edge_consistency
+-1 -92 0
+c id 1270 type edge_consistency
+-1 -93 0
+c id 1271 type edge_consistency
+-1 -94 0
+c id 1272 type edge_consistency
+-1 -95 0
+c id 1273 type edge_consistency
+-1 -96 0
+c id 1274 type edge_consistency
+-2 -74 0
+c id 1275 type edge_consistency
+-2 -75 0
+c id 1276 type edge_consistency
+-2 -77 0
+c id 1277 type edge_consistency
+-2 -78 0
+c id 1278 type edge_consistency
+-2 -79 0
+c id 1279 type edge_consistency
+-2 -81 0
+c id 1280 type edge_consistency
+-2 -82 0
+c id 1281 type edge_consistency
+-2 -83 0
+c id 1282 type edge_consistency
+-2 -84 0
+c id 1283 type edge_consistency
+-2 -85 0
+c id 1284 type edge_consistency
+-2 -86 0
+c id 1285 type edge_consistency
+-2 -87 0
+c id 1286 type edge_consistency
+-2 -88 0
+c id 1287 type edge_consistency
+-2 -89 0
+c id 1288 type edge_consistency
+-2 -90 0
+c id 1289 type edge_consistency
+-2 -91 0
+c id 1290 type edge_consistency
+-2 -92 0
+c id 1291 type edge_consistency
+-2 -93 0
+c id 1292 type edge_consistency
+-2 -94 0
+c id 1293 type edge_consistency
+-2 -95 0
+c id 1294 type edge_consistency
+-2 -96 0
+c id 1295 type edge_consistency
+-3 -74 0
+c id 1296 type edge_consistency
+-3 -75 0
+c id 1297 type edge_consistency
+-3 -78 0
+c id 1298 type edge_consistency
+-3 -79 0
+c id 1299 type edge_consistency
+-3 -80 0
+c id 1300 type edge_consistency
+-3 -82 0
+c id 1301 type edge_consistency
+-3 -83 0
+c id 1302 type edge_consistency
+-3 -84 0
+c id 1303 type edge_consistency
+-3 -85 0
+c id 1304 type edge_consistency
+-3 -86 0
+c id 1305 type edge_consistency
+-3 -87 0
+c id 1306 type edge_consistency
+-3 -88 0
+c id 1307 type edge_consistency
+-3 -89 0
+c id 1308 type edge_consistency
+-3 -90 0
+c id 1309 type edge_consistency
+-3 -91 0
+c id 1310 type edge_consistency
+-3 -92 0
+c id 1311 type edge_consistency
+-3 -93 0
+c id 1312 type edge_consistency
+-3 -94 0
+c id 1313 type edge_consistency
+-3 -95 0
+c id 1314 type edge_consistency
+-3 -96 0
+c id 1315 type edge_consistency
+-4 -73 0
+c id 1316 type edge_consistency
+-4 -76 0
+c id 1317 type edge_consistency
+-4 -77 0
+c id 1318 type edge_consistency
+-4 -79 0
+c id 1319 type edge_consistency
+-4 -80 0
+c id 1320 type edge_consistency
+-4 -81 0
+c id 1321 type edge_consistency
+-4 -83 0
+c id 1322 type edge_consistency
+-4 -84 0
+c id 1323 type edge_consistency
+-4 -85 0
+c id 1324 type edge_consistency
+-4 -86 0
+c id 1325 type edge_consistency
+-4 -87 0
+c id 1326 type edge_consistency
+-4 -88 0
+c id 1327 type edge_consistency
+-4 -89 0
+c id 1328 type edge_consistency
+-4 -90 0
+c id 1329 type edge_consistency
+-4 -91 0
+c id 1330 type edge_consistency
+-4 -92 0
+c id 1331 type edge_consistency
+-4 -93 0
+c id 1332 type edge_consistency
+-4 -94 0
+c id 1333 type edge_consistency
+-4 -95 0
+c id 1334 type edge_consistency
+-4 -96 0
+c id 1335 type edge_consistency
+-5 -73 0
+c id 1336 type edge_consistency
+-5 -74 0
+c id 1337 type edge_consistency
+-5 -76 0
+c id 1338 type edge_consistency
+-5 -77 0
+c id 1339 type edge_consistency
+-5 -79 0
+c id 1340 type edge_consistency
+-5 -80 0
+c id 1341 type edge_consistency
+-5 -81 0
+c id 1342 type edge_consistency
+-5 -82 0
+c id 1343 type edge_consistency
+-5 -84 0
+c id 1344 type edge_consistency
+-5 -85 0
+c id 1345 type edge_consistency
+-5 -86 0
+c id 1346 type edge_consistency
+-5 -87 0
+c id 1347 type edge_consistency
+-5 -88 0
+c id 1348 type edge_consistency
+-5 -89 0
+c id 1349 type edge_consistency
+-5 -90 0
+c id 1350 type edge_consistency
+-5 -91 0
+c id 1351 type edge_consistency
+-5 -92 0
+c id 1352 type edge_consistency
+-5 -93 0
+c id 1353 type edge_consistency
+-5 -94 0
+c id 1354 type edge_consistency
+-5 -95 0
+c id 1355 type edge_consistency
+-5 -96 0
+c id 1356 type edge_consistency
+-6 -73 0
+c id 1357 type edge_consistency
+-6 -74 0
+c id 1358 type edge_consistency
+-6 -75 0
+c id 1359 type edge_consistency
+-6 -78 0
+c id 1360 type edge_consistency
+-6 -79 0
+c id 1361 type edge_consistency
+-6 -80 0
+c id 1362 type edge_consistency
+-6 -81 0
+c id 1363 type edge_consistency
+-6 -82 0
+c id 1364 type edge_consistency
+-6 -83 0
+c id 1365 type edge_consistency
+-6 -85 0
+c id 1366 type edge_consistency
+-6 -86 0
+c id 1367 type edge_consistency
+-6 -87 0
+c id 1368 type edge_consistency
+-6 -88 0
+c id 1369 type edge_consistency
+-6 -89 0
+c id 1370 type edge_consistency
+-6 -90 0
+c id 1371 type edge_consistency
+-6 -91 0
+c id 1372 type edge_consistency
+-6 -92 0
+c id 1373 type edge_consistency
+-6 -93 0
+c id 1374 type edge_consistency
+-6 -94 0
+c id 1375 type edge_consistency
+-6 -95 0
+c id 1376 type edge_consistency
+-6 -96 0
+c id 1377 type edge_consistency
+-7 -74 0
+c id 1378 type edge_consistency
+-7 -75 0
+c id 1379 type edge_consistency
+-7 -76 0
+c id 1380 type edge_consistency
+-7 -77 0
+c id 1381 type edge_consistency
+-7 -78 0
+c id 1382 type edge_consistency
+-7 -79 0
+c id 1383 type edge_consistency
+-7 -82 0
+c id 1384 type edge_consistency
+-7 -83 0
+c id 1385 type edge_consistency
+-7 -84 0
+c id 1386 type edge_consistency
+-7 -86 0
+c id 1387 type edge_consistency
+-7 -87 0
+c id 1388 type edge_consistency
+-7 -88 0
+c id 1389 type edge_consistency
+-7 -89 0
+c id 1390 type edge_consistency
+-7 -90 0
+c id 1391 type edge_consistency
+-7 -91 0
+c id 1392 type edge_consistency
+-7 -92 0
+c id 1393 type edge_consistency
+-7 -93 0
+c id 1394 type edge_consistency
+-7 -94 0
+c id 1395 type edge_consistency
+-7 -95 0
+c id 1396 type edge_consistency
+-7 -96 0
+c id 1397 type edge_consistency
+-8 -73 0
+c id 1398 type edge_consistency
+-8 -75 0
+c id 1399 type edge_consistency
+-8 -76 0
+c id 1400 type edge_consistency
+-8 -77 0
+c id 1401 type edge_consistency
+-8 -78 0
+c id 1402 type edge_consistency
+-8 -80 0
+c id 1403 type edge_consistency
+-8 -81 0
+c id 1404 type edge_consistency
+-8 -83 0
+c id 1405 type edge_consistency
+-8 -84 0
+c id 1406 type edge_consistency
+-8 -85 0
+c id 1407 type edge_consistency
+-8 -87 0
+c id 1408 type edge_consistency
+-8 -88 0
+c id 1409 type edge_consistency
+-8 -89 0
+c id 1410 type edge_consistency
+-8 -90 0
+c id 1411 type edge_consistency
+-8 -91 0
+c id 1412 type edge_consistency
+-8 -92 0
+c id 1413 type edge_consistency
+-8 -93 0
+c id 1414 type edge_consistency
+-8 -94 0
+c id 1415 type edge_consistency
+-8 -95 0
+c id 1416 type edge_consistency
+-8 -96 0
+c id 1417 type edge_consistency
+-9 -73 0
+c id 1418 type edge_consistency
+-9 -74 0
+c id 1419 type edge_consistency
+-9 -76 0
+c id 1420 type edge_consistency
+-9 -77 0
+c id 1421 type edge_consistency
+-9 -78 0
+c id 1422 type edge_consistency
+-9 -80 0
+c id 1423 type edge_consistency
+-9 -81 0
+c id 1424 type edge_consistency
+-9 -84 0
+c id 1425 type edge_consistency
+-9 -85 0
+c id 1426 type edge_consistency
+-9 -86 0
+c id 1427 type edge_consistency
+-9 -88 0
+c id 1428 type edge_consistency
+-9 -89 0
+c id 1429 type edge_consistency
+-9 -90 0
+c id 1430 type edge_consistency
+-9 -91 0
+c id 1431 type edge_consistency
+-9 -92 0
+c id 1432 type edge_consistency
+-9 -93 0
+c id 1433 type edge_consistency
+-9 -94 0
+c id 1434 type edge_consistency
+-9 -95 0
+c id 1435 type edge_consistency
+-9 -96 0
+c id 1436 type edge_consistency
+-10 -73 0
+c id 1437 type edge_consistency
+-10 -74 0
+c id 1438 type edge_consistency
+-10 -75 0
+c id 1439 type edge_consistency
+-10 -77 0
+c id 1440 type edge_consistency
+-10 -78 0
+c id 1441 type edge_consistency
+-10 -79 0
+c id 1442 type edge_consistency
+-10 -82 0
+c id 1443 type edge_consistency
+-10 -83 0
+c id 1444 type edge_consistency
+-10 -85 0
+c id 1445 type edge_consistency
+-10 -86 0
+c id 1446 type edge_consistency
+-10 -87 0
+c id 1447 type edge_consistency
+-10 -89 0
+c id 1448 type edge_consistency
+-10 -90 0
+c id 1449 type edge_consistency
+-10 -91 0
+c id 1450 type edge_consistency
+-10 -92 0
+c id 1451 type edge_consistency
+-10 -93 0
+c id 1452 type edge_consistency
+-10 -94 0
+c id 1453 type edge_consistency
+-10 -95 0
+c id 1454 type edge_consistency
+-10 -96 0
+c id 1455 type edge_consistency
+-11 -73 0
+c id 1456 type edge_consistency
+-11 -74 0
+c id 1457 type edge_consistency
+-11 -75 0
+c id 1458 type edge_consistency
+-11 -76 0
+c id 1459 type edge_consistency
+-11 -78 0
+c id 1460 type edge_consistency
+-11 -79 0
+c id 1461 type edge_consistency
+-11 -80 0
+c id 1462 type edge_consistency
+-11 -82 0
+c id 1463 type edge_consistency
+-11 -83 0
+c id 1464 type edge_consistency
+-11 -85 0
+c id 1465 type edge_consistency
+-11 -86 0
+c id 1466 type edge_consistency
+-11 -87 0
+c id 1467 type edge_consistency
+-11 -88 0
+c id 1468 type edge_consistency
+-11 -90 0
+c id 1469 type edge_consistency
+-11 -91 0
+c id 1470 type edge_consistency
+-11 -92 0
+c id 1471 type edge_consistency
+-11 -93 0
+c id 1472 type edge_consistency
+-11 -94 0
+c id 1473 type edge_consistency
+-11 -95 0
+c id 1474 type edge_consistency
+-11 -96 0
+c id 1475 type edge_consistency
+-12 -73 0
+c id 1476 type edge_consistency
+-12 -74 0
+c id 1477 type edge_consistency
+-12 -75 0
+c id 1478 type edge_consistency
+-12 -76 0
+c id 1479 type edge_consistency
+-12 -77 0
+c id 1480 type edge_consistency
+-12 -79 0
+c id 1481 type edge_consistency
+-12 -80 0
+c id 1482 type edge_consistency
+-12 -81 0
+c id 1483 type edge_consistency
+-12 -84 0
+c id 1484 type edge_consistency
+-12 -85 0
+c id 1485 type edge_consistency
+-12 -86 0
+c id 1486 type edge_consistency
+-12 -87 0
+c id 1487 type edge_consistency
+-12 -88 0
+c id 1488 type edge_consistency
+-12 -89 0
+c id 1489 type edge_consistency
+-12 -91 0
+c id 1490 type edge_consistency
+-12 -92 0
+c id 1491 type edge_consistency
+-12 -93 0
+c id 1492 type edge_consistency
+-12 -94 0
+c id 1493 type edge_consistency
+-12 -95 0
+c id 1494 type edge_consistency
+-12 -96 0
+c id 1495 type edge_consistency
+-13 -73 0
+c id 1496 type edge_consistency
+-13 -74 0
+c id 1497 type edge_consistency
+-13 -75 0
+c id 1498 type edge_consistency
+-13 -76 0
+c id 1499 type edge_consistency
+-13 -77 0
+c id 1500 type edge_consistency
+-13 -78 0
+c id 1501 type edge_consistency
+-13 -80 0
+c id 1502 type edge_consistency
+-13 -81 0
+c id 1503 type edge_consistency
+-13 -82 0
+c id 1504 type edge_consistency
+-13 -83 0
+c id 1505 type edge_consistency
+-13 -84 0
+c id 1506 type edge_consistency
+-13 -85 0
+c id 1507 type edge_consistency
+-13 -88 0
+c id 1508 type edge_consistency
+-13 -89 0
+c id 1509 type edge_consistency
+-13 -90 0
+c id 1510 type edge_consistency
+-13 -92 0
+c id 1511 type edge_consistency
+-13 -93 0
+c id 1512 type edge_consistency
+-13 -94 0
+c id 1513 type edge_consistency
+-13 -95 0
+c id 1514 type edge_consistency
+-13 -96 0
+c id 1515 type edge_consistency
+-14 -73 0
+c id 1516 type edge_consistency
+-14 -74 0
+c id 1517 type edge_consistency
+-14 -75 0
+c id 1518 type edge_consistency
+-14 -76 0
+c id 1519 type edge_consistency
+-14 -77 0
+c id 1520 type edge_consistency
+-14 -78 0
+c id 1521 type edge_consistency
+-14 -79 0
+c id 1522 type edge_consistency
+-14 -81 0
+c id 1523 type edge_consistency
+-14 -82 0
+c id 1524 type edge_consistency
+-14 -83 0
+c id 1525 type edge_consistency
+-14 -84 0
+c id 1526 type edge_consistency
+-14 -86 0
+c id 1527 type edge_consistency
+-14 -87 0
+c id 1528 type edge_consistency
+-14 -89 0
+c id 1529 type edge_consistency
+-14 -90 0
+c id 1530 type edge_consistency
+-14 -91 0
+c id 1531 type edge_consistency
+-14 -93 0
+c id 1532 type edge_consistency
+-14 -94 0
+c id 1533 type edge_consistency
+-14 -95 0
+c id 1534 type edge_consistency
+-14 -96 0
+c id 1535 type edge_consistency
+-15 -73 0
+c id 1536 type edge_consistency
+-15 -74 0
+c id 1537 type edge_consistency
+-15 -75 0
+c id 1538 type edge_consistency
+-15 -76 0
+c id 1539 type edge_consistency
+-15 -77 0
+c id 1540 type edge_consistency
+-15 -78 0
+c id 1541 type edge_consistency
+-15 -79 0
+c id 1542 type edge_consistency
+-15 -80 0
+c id 1543 type edge_consistency
+-15 -82 0
+c id 1544 type edge_consistency
+-15 -83 0
+c id 1545 type edge_consistency
+-15 -84 0
+c id 1546 type edge_consistency
+-15 -86 0
+c id 1547 type edge_consistency
+-15 -87 0
+c id 1548 type edge_consistency
+-15 -90 0
+c id 1549 type edge_consistency
+-15 -91 0
+c id 1550 type edge_consistency
+-15 -92 0
+c id 1551 type edge_consistency
+-15 -94 0
+c id 1552 type edge_consistency
+-15 -95 0
+c id 1553 type edge_consistency
+-15 -96 0
+c id 1554 type edge_consistency
+-16 -73 0
+c id 1555 type edge_consistency
+-16 -74 0
+c id 1556 type edge_consistency
+-16 -75 0
+c id 1557 type edge_consistency
+-16 -76 0
+c id 1558 type edge_consistency
+-16 -77 0
+c id 1559 type edge_consistency
+-16 -78 0
+c id 1560 type edge_consistency
+-16 -79 0
+c id 1561 type edge_consistency
+-16 -80 0
+c id 1562 type edge_consistency
+-16 -81 0
+c id 1563 type edge_consistency
+-16 -83 0
+c id 1564 type edge_consistency
+-16 -84 0
+c id 1565 type edge_consistency
+-16 -85 0
+c id 1566 type edge_consistency
+-16 -88 0
+c id 1567 type edge_consistency
+-16 -89 0
+c id 1568 type edge_consistency
+-16 -91 0
+c id 1569 type edge_consistency
+-16 -92 0
+c id 1570 type edge_consistency
+-16 -93 0
+c id 1571 type edge_consistency
+-16 -95 0
+c id 1572 type edge_consistency
+-16 -96 0
+c id 1573 type edge_consistency
+-17 -73 0
+c id 1574 type edge_consistency
+-17 -74 0
+c id 1575 type edge_consistency
+-17 -75 0
+c id 1576 type edge_consistency
+-17 -76 0
+c id 1577 type edge_consistency
+-17 -77 0
+c id 1578 type edge_consistency
+-17 -78 0
+c id 1579 type edge_consistency
+-17 -79 0
+c id 1580 type edge_consistency
+-17 -80 0
+c id 1581 type edge_consistency
+-17 -81 0
+c id 1582 type edge_consistency
+-17 -82 0
+c id 1583 type edge_consistency
+-17 -84 0
+c id 1584 type edge_consistency
+-17 -85 0
+c id 1585 type edge_consistency
+-17 -86 0
+c id 1586 type edge_consistency
+-17 -88 0
+c id 1587 type edge_consistency
+-17 -89 0
+c id 1588 type edge_consistency
+-17 -91 0
+c id 1589 type edge_consistency
+-17 -92 0
+c id 1590 type edge_consistency
+-17 -93 0
+c id 1591 type edge_consistency
+-17 -94 0
+c id 1592 type edge_consistency
+-17 -96 0
+c id 1593 type edge_consistency
+-18 -73 0
+c id 1594 type edge_consistency
+-18 -74 0
+c id 1595 type edge_consistency
+-18 -75 0
+c id 1596 type edge_consistency
+-18 -76 0
+c id 1597 type edge_consistency
+-18 -77 0
+c id 1598 type edge_consistency
+-18 -78 0
+c id 1599 type edge_consistency
+-18 -79 0
+c id 1600 type edge_consistency
+-18 -80 0
+c id 1601 type edge_consistency
+-18 -81 0
+c id 1602 type edge_consistency
+-18 -82 0
+c id 1603 type edge_consistency
+-18 -83 0
+c id 1604 type edge_consistency
+-18 -85 0
+c id 1605 type edge_consistency
+-18 -86 0
+c id 1606 type edge_consistency
+-18 -87 0
+c id 1607 type edge_consistency
+-18 -90 0
+c id 1608 type edge_consistency
+-18 -91 0
+c id 1609 type edge_consistency
+-18 -92 0
+c id 1610 type edge_consistency
+-18 -93 0
+c id 1611 type edge_consistency
+-18 -94 0
+c id 1612 type edge_consistency
+-18 -95 0
+c id 1613 type edge_consistency
+-19 -73 0
+c id 1614 type edge_consistency
+-19 -74 0
+c id 1615 type edge_consistency
+-19 -75 0
+c id 1616 type edge_consistency
+-19 -76 0
+c id 1617 type edge_consistency
+-19 -77 0
+c id 1618 type edge_consistency
+-19 -78 0
+c id 1619 type edge_consistency
+-19 -79 0
+c id 1620 type edge_consistency
+-19 -80 0
+c id 1621 type edge_consistency
+-19 -81 0
+c id 1622 type edge_consistency
+-19 -82 0
+c id 1623 type edge_consistency
+-19 -83 0
+c id 1624 type edge_consistency
+-19 -84 0
+c id 1625 type edge_consistency
+-19 -86 0
+c id 1626 type edge_consistency
+-19 -87 0
+c id 1627 type edge_consistency
+-19 -88 0
+c id 1628 type edge_consistency
+-19 -89 0
+c id 1629 type edge_consistency
+-19 -90 0
+c id 1630 type edge_consistency
+-19 -91 0
+c id 1631 type edge_consistency
+-19 -94 0
+c id 1632 type edge_consistency
+-19 -95 0
+c id 1633 type edge_consistency
+-19 -96 0
+c id 1634 type edge_consistency
+-20 -73 0
+c id 1635 type edge_consistency
+-20 -74 0
+c id 1636 type edge_consistency
+-20 -75 0
+c id 1637 type edge_consistency
+-20 -76 0
+c id 1638 type edge_consistency
+-20 -77 0
+c id 1639 type edge_consistency
+-20 -78 0
+c id 1640 type edge_consistency
+-20 -79 0
+c id 1641 type edge_consistency
+-20 -80 0
+c id 1642 type edge_consistency
+-20 -81 0
+c id 1643 type edge_consistency
+-20 -82 0
+c id 1644 type edge_consistency
+-20 -83 0
+c id 1645 type edge_consistency
+-20 -84 0
+c id 1646 type edge_consistency
+-20 -85 0
+c id 1647 type edge_consistency
+-20 -87 0
+c id 1648 type edge_consistency
+-20 -88 0
+c id 1649 type edge_consistency
+-20 -89 0
+c id 1650 type edge_consistency
+-20 -90 0
+c id 1651 type edge_consistency
+-20 -92 0
+c id 1652 type edge_consistency
+-20 -93 0
+c id 1653 type edge_consistency
+-20 -95 0
+c id 1654 type edge_consistency
+-20 -96 0
+c id 1655 type edge_consistency
+-21 -73 0
+c id 1656 type edge_consistency
+-21 -74 0
+c id 1657 type edge_consistency
+-21 -75 0
+c id 1658 type edge_consistency
+-21 -76 0
+c id 1659 type edge_consistency
+-21 -77 0
+c id 1660 type edge_consistency
+-21 -78 0
+c id 1661 type edge_consistency
+-21 -79 0
+c id 1662 type edge_consistency
+-21 -80 0
+c id 1663 type edge_consistency
+-21 -81 0
+c id 1664 type edge_consistency
+-21 -82 0
+c id 1665 type edge_consistency
+-21 -83 0
+c id 1666 type edge_consistency
+-21 -84 0
+c id 1667 type edge_consistency
+-21 -85 0
+c id 1668 type edge_consistency
+-21 -86 0
+c id 1669 type edge_consistency
+-21 -88 0
+c id 1670 type edge_consistency
+-21 -89 0
+c id 1671 type edge_consistency
+-21 -90 0
+c id 1672 type edge_consistency
+-21 -92 0
+c id 1673 type edge_consistency
+-21 -93 0
+c id 1674 type edge_consistency
+-21 -96 0
+c id 1675 type edge_consistency
+-22 -73 0
+c id 1676 type edge_consistency
+-22 -74 0
+c id 1677 type edge_consistency
+-22 -75 0
+c id 1678 type edge_consistency
+-22 -76 0
+c id 1679 type edge_consistency
+-22 -77 0
+c id 1680 type edge_consistency
+-22 -78 0
+c id 1681 type edge_consistency
+-22 -79 0
+c id 1682 type edge_consistency
+-22 -80 0
+c id 1683 type edge_consistency
+-22 -81 0
+c id 1684 type edge_consistency
+-22 -82 0
+c id 1685 type edge_consistency
+-22 -83 0
+c id 1686 type edge_consistency
+-22 -84 0
+c id 1687 type edge_consistency
+-22 -85 0
+c id 1688 type edge_consistency
+-22 -86 0
+c id 1689 type edge_consistency
+-22 -87 0
+c id 1690 type edge_consistency
+-22 -89 0
+c id 1691 type edge_consistency
+-22 -90 0
+c id 1692 type edge_consistency
+-22 -91 0
+c id 1693 type edge_consistency
+-22 -94 0
+c id 1694 type edge_consistency
+-22 -95 0
+c id 1695 type edge_consistency
+-23 -73 0
+c id 1696 type edge_consistency
+-23 -74 0
+c id 1697 type edge_consistency
+-23 -75 0
+c id 1698 type edge_consistency
+-23 -76 0
+c id 1699 type edge_consistency
+-23 -77 0
+c id 1700 type edge_consistency
+-23 -78 0
+c id 1701 type edge_consistency
+-23 -79 0
+c id 1702 type edge_consistency
+-23 -80 0
+c id 1703 type edge_consistency
+-23 -81 0
+c id 1704 type edge_consistency
+-23 -82 0
+c id 1705 type edge_consistency
+-23 -83 0
+c id 1706 type edge_consistency
+-23 -84 0
+c id 1707 type edge_consistency
+-23 -85 0
+c id 1708 type edge_consistency
+-23 -86 0
+c id 1709 type edge_consistency
+-23 -87 0
+c id 1710 type edge_consistency
+-23 -88 0
+c id 1711 type edge_consistency
+-23 -90 0
+c id 1712 type edge_consistency
+-23 -91 0
+c id 1713 type edge_consistency
+-23 -92 0
+c id 1714 type edge_consistency
+-23 -94 0
+c id 1715 type edge_consistency
+-23 -95 0
+c id 1716 type edge_consistency
+-24 -73 0
+c id 1717 type edge_consistency
+-24 -74 0
+c id 1718 type edge_consistency
+-24 -75 0
+c id 1719 type edge_consistency
+-24 -76 0
+c id 1720 type edge_consistency
+-24 -77 0
+c id 1721 type edge_consistency
+-24 -78 0
+c id 1722 type edge_consistency
+-24 -79 0
+c id 1723 type edge_consistency
+-24 -80 0
+c id 1724 type edge_consistency
+-24 -81 0
+c id 1725 type edge_consistency
+-24 -82 0
+c id 1726 type edge_consistency
+-24 -83 0
+c id 1727 type edge_consistency
+-24 -84 0
+c id 1728 type edge_consistency
+-24 -85 0
+c id 1729 type edge_consistency
+-24 -86 0
+c id 1730 type edge_consistency
+-24 -87 0
+c id 1731 type edge_consistency
+-24 -88 0
+c id 1732 type edge_consistency
+-24 -89 0
+c id 1733 type edge_consistency
+-24 -91 0
+c id 1734 type edge_consistency
+-24 -92 0
+c id 1735 type edge_consistency
+-24 -93 0
+c id 1736 type edge_consistency
+-24 -96 0
+c id 1737 type edge_consistency
+-73 -25 0
+c id 1738 type edge_consistency
+-73 -28 0
+c id 1739 type edge_consistency
+-73 -29 0
+c id 1740 type edge_consistency
+-73 -30 0
+c id 1741 type edge_consistency
+-73 -32 0
+c id 1742 type edge_consistency
+-73 -33 0
+c id 1743 type edge_consistency
+-73 -34 0
+c id 1744 type edge_consistency
+-73 -35 0
+c id 1745 type edge_consistency
+-73 -36 0
+c id 1746 type edge_consistency
+-73 -37 0
+c id 1747 type edge_consistency
+-73 -38 0
+c id 1748 type edge_consistency
+-73 -39 0
+c id 1749 type edge_consistency
+-73 -40 0
+c id 1750 type edge_consistency
+-73 -41 0
+c id 1751 type edge_consistency
+-73 -42 0
+c id 1752 type edge_consistency
+-73 -43 0
+c id 1753 type edge_consistency
+-73 -44 0
+c id 1754 type edge_consistency
+-73 -45 0
+c id 1755 type edge_consistency
+-73 -46 0
+c id 1756 type edge_consistency
+-73 -47 0
+c id 1757 type edge_consistency
+-73 -48 0
+c id 1758 type edge_consistency
+-74 -26 0
+c id 1759 type edge_consistency
+-74 -27 0
+c id 1760 type edge_consistency
+-74 -29 0
+c id 1761 type edge_consistency
+-74 -30 0
+c id 1762 type edge_consistency
+-74 -31 0
+c id 1763 type edge_consistency
+-74 -33 0
+c id 1764 type edge_consistency
+-74 -34 0
+c id 1765 type edge_consistency
+-74 -35 0
+c id 1766 type edge_consistency
+-74 -36 0
+c id 1767 type edge_consistency
+-74 -37 0
+c id 1768 type edge_consistency
+-74 -38 0
+c id 1769 type edge_consistency
+-74 -39 0
+c id 1770 type edge_consistency
+-74 -40 0
+c id 1771 type edge_consistency
+-74 -41 0
+c id 1772 type edge_consistency
+-74 -42 0
+c id 1773 type edge_consistency
+-74 -43 0
+c id 1774 type edge_consistency
+-74 -44 0
+c id 1775 type edge_consistency
+-74 -45 0
+c id 1776 type edge_consistency
+-74 -46 0
+c id 1777 type edge_consistency
+-74 -47 0
+c id 1778 type edge_consistency
+-74 -48 0
+c id 1779 type edge_consistency
+-75 -26 0
+c id 1780 type edge_consistency
+-75 -27 0
+c id 1781 type edge_consistency
+-75 -30 0
+c id 1782 type edge_consistency
+-75 -31 0
+c id 1783 type edge_consistency
+-75 -32 0
+c id 1784 type edge_consistency
+-75 -34 0
+c id 1785 type edge_consistency
+-75 -35 0
+c id 1786 type edge_consistency
+-75 -36 0
+c id 1787 type edge_consistency
+-75 -37 0
+c id 1788 type edge_consistency
+-75 -38 0
+c id 1789 type edge_consistency
+-75 -39 0
+c id 1790 type edge_consistency
+-75 -40 0
+c id 1791 type edge_consistency
+-75 -41 0
+c id 1792 type edge_consistency
+-75 -42 0
+c id 1793 type edge_consistency
+-75 -43 0
+c id 1794 type edge_consistency
+-75 -44 0
+c id 1795 type edge_consistency
+-75 -45 0
+c id 1796 type edge_consistency
+-75 -46 0
+c id 1797 type edge_consistency
+-75 -47 0
+c id 1798 type edge_consistency
+-75 -48 0
+c id 1799 type edge_consistency
+-76 -25 0
+c id 1800 type edge_consistency
+-76 -28 0
+c id 1801 type edge_consistency
+-76 -29 0
+c id 1802 type edge_consistency
+-76 -31 0
+c id 1803 type edge_consistency
+-76 -32 0
+c id 1804 type edge_consistency
+-76 -33 0
+c id 1805 type edge_consistency
+-76 -35 0
+c id 1806 type edge_consistency
+-76 -36 0
+c id 1807 type edge_consistency
+-76 -37 0
+c id 1808 type edge_consistency
+-76 -38 0
+c id 1809 type edge_consistency
+-76 -39 0
+c id 1810 type edge_consistency
+-76 -40 0
+c id 1811 type edge_consistency
+-76 -41 0
+c id 1812 type edge_consistency
+-76 -42 0
+c id 1813 type edge_consistency
+-76 -43 0
+c id 1814 type edge_consistency
+-76 -44 0
+c id 1815 type edge_consistency
+-76 -45 0
+c id 1816 type edge_consistency
+-76 -46 0
+c id 1817 type edge_consistency
+-76 -47 0
+c id 1818 type edge_consistency
+-76 -48 0
+c id 1819 type edge_consistency
+-77 -25 0
+c id 1820 type edge_consistency
+-77 -26 0
+c id 1821 type edge_consistency
+-77 -28 0
+c id 1822 type edge_consistency
+-77 -29 0
+c id 1823 type edge_consistency
+-77 -31 0
+c id 1824 type edge_consistency
+-77 -32 0
+c id 1825 type edge_consistency
+-77 -33 0
+c id 1826 type edge_consistency
+-77 -34 0
+c id 1827 type edge_consistency
+-77 -36 0
+c id 1828 type edge_consistency
+-77 -37 0
+c id 1829 type edge_consistency
+-77 -38 0
+c id 1830 type edge_consistency
+-77 -39 0
+c id 1831 type edge_consistency
+-77 -40 0
+c id 1832 type edge_consistency
+-77 -41 0
+c id 1833 type edge_consistency
+-77 -42 0
+c id 1834 type edge_consistency
+-77 -43 0
+c id 1835 type edge_consistency
+-77 -44 0
+c id 1836 type edge_consistency
+-77 -45 0
+c id 1837 type edge_consistency
+-77 -46 0
+c id 1838 type edge_consistency
+-77 -47 0
+c id 1839 type edge_consistency
+-77 -48 0
+c id 1840 type edge_consistency
+-78 -25 0
+c id 1841 type edge_consistency
+-78 -26 0
+c id 1842 type edge_consistency
+-78 -27 0
+c id 1843 type edge_consistency
+-78 -30 0
+c id 1844 type edge_consistency
+-78 -31 0
+c id 1845 type edge_consistency
+-78 -32 0
+c id 1846 type edge_consistency
+-78 -33 0
+c id 1847 type edge_consistency
+-78 -34 0
+c id 1848 type edge_consistency
+-78 -35 0
+c id 1849 type edge_consistency
+-78 -37 0
+c id 1850 type edge_consistency
+-78 -38 0
+c id 1851 type edge_consistency
+-78 -39 0
+c id 1852 type edge_consistency
+-78 -40 0
+c id 1853 type edge_consistency
+-78 -41 0
+c id 1854 type edge_consistency
+-78 -42 0
+c id 1855 type edge_consistency
+-78 -43 0
+c id 1856 type edge_consistency
+-78 -44 0
+c id 1857 type edge_consistency
+-78 -45 0
+c id 1858 type edge_consistency
+-78 -46 0
+c id 1859 type edge_consistency
+-78 -47 0
+c id 1860 type edge_consistency
+-78 -48 0
+c id 1861 type edge_consistency
+-79 -26 0
+c id 1862 type edge_consistency
+-79 -27 0
+c id 1863 type edge_consistency
+-79 -28 0
+c id 1864 type edge_consistency
+-79 -29 0
+c id 1865 type edge_consistency
+-79 -30 0
+c id 1866 type edge_consistency
+-79 -31 0
+c id 1867 type edge_consistency
+-79 -34 0
+c id 1868 type edge_consistency
+-79 -35 0
+c id 1869 type edge_consistency
+-79 -36 0
+c id 1870 type edge_consistency
+-79 -38 0
+c id 1871 type edge_consistency
+-79 -39 0
+c id 1872 type edge_consistency
+-79 -40 0
+c id 1873 type edge_consistency
+-79 -41 0
+c id 1874 type edge_consistency
+-79 -42 0
+c id 1875 type edge_consistency
+-79 -43 0
+c id 1876 type edge_consistency
+-79 -44 0
+c id 1877 type edge_consistency
+-79 -45 0
+c id 1878 type edge_consistency
+-79 -46 0
+c id 1879 type edge_consistency
+-79 -47 0
+c id 1880 type edge_consistency
+-79 -48 0
+c id 1881 type edge_consistency
+-80 -25 0
+c id 1882 type edge_consistency
+-80 -27 0
+c id 1883 type edge_consistency
+-80 -28 0
+c id 1884 type edge_consistency
+-80 -29 0
+c id 1885 type edge_consistency
+-80 -30 0
+c id 1886 type edge_consistency
+-80 -32 0
+c id 1887 type edge_consistency
+-80 -33 0
+c id 1888 type edge_consistency
+-80 -35 0
+c id 1889 type edge_consistency
+-80 -36 0
+c id 1890 type edge_consistency
+-80 -37 0
+c id 1891 type edge_consistency
+-80 -39 0
+c id 1892 type edge_consistency
+-80 -40 0
+c id 1893 type edge_consistency
+-80 -41 0
+c id 1894 type edge_consistency
+-80 -42 0
+c id 1895 type edge_consistency
+-80 -43 0
+c id 1896 type edge_consistency
+-80 -44 0
+c id 1897 type edge_consistency
+-80 -45 0
+c id 1898 type edge_consistency
+-80 -46 0
+c id 1899 type edge_consistency
+-80 -47 0
+c id 1900 type edge_consistency
+-80 -48 0
+c id 1901 type edge_consistency
+-81 -25 0
+c id 1902 type edge_consistency
+-81 -26 0
+c id 1903 type edge_consistency
+-81 -28 0
+c id 1904 type edge_consistency
+-81 -29 0
+c id 1905 type edge_consistency
+-81 -30 0
+c id 1906 type edge_consistency
+-81 -32 0
+c id 1907 type edge_consistency
+-81 -33 0
+c id 1908 type edge_consistency
+-81 -36 0
+c id 1909 type edge_consistency
+-81 -37 0
+c id 1910 type edge_consistency
+-81 -38 0
+c id 1911 type edge_consistency
+-81 -40 0
+c id 1912 type edge_consistency
+-81 -41 0
+c id 1913 type edge_consistency
+-81 -42 0
+c id 1914 type edge_consistency
+-81 -43 0
+c id 1915 type edge_consistency
+-81 -44 0
+c id 1916 type edge_consistency
+-81 -45 0
+c id 1917 type edge_consistency
+-81 -46 0
+c id 1918 type edge_consistency
+-81 -47 0
+c id 1919 type edge_consistency
+-81 -48 0
+c id 1920 type edge_consistency
+-82 -25 0
+c id 1921 type edge_consistency
+-82 -26 0
+c id 1922 type edge_consistency
+-82 -27 0
+c id 1923 type edge_consistency
+-82 -29 0
+c id 1924 type edge_consistency
+-82 -30 0
+c id 1925 type edge_consistency
+-82 -31 0
+c id 1926 type edge_consistency
+-82 -34 0
+c id 1927 type edge_consistency
+-82 -35 0
+c id 1928 type edge_consistency
+-82 -37 0
+c id 1929 type edge_consistency
+-82 -38 0
+c id 1930 type edge_consistency
+-82 -39 0
+c id 1931 type edge_consistency
+-82 -41 0
+c id 1932 type edge_consistency
+-82 -42 0
+c id 1933 type edge_consistency
+-82 -43 0
+c id 1934 type edge_consistency
+-82 -44 0
+c id 1935 type edge_consistency
+-82 -45 0
+c id 1936 type edge_consistency
+-82 -46 0
+c id 1937 type edge_consistency
+-82 -47 0
+c id 1938 type edge_consistency
+-82 -48 0
+c id 1939 type edge_consistency
+-83 -25 0
+c id 1940 type edge_consistency
+-83 -26 0
+c id 1941 type edge_consistency
+-83 -27 0
+c id 1942 type edge_consistency
+-83 -28 0
+c id 1943 type edge_consistency
+-83 -30 0
+c id 1944 type edge_consistency
+-83 -31 0
+c id 1945 type edge_consistency
+-83 -32 0
+c id 1946 type edge_consistency
+-83 -34 0
+c id 1947 type edge_consistency
+-83 -35 0
+c id 1948 type edge_consistency
+-83 -37 0
+c id 1949 type edge_consistency
+-83 -38 0
+c id 1950 type edge_consistency
+-83 -39 0
+c id 1951 type edge_consistency
+-83 -40 0
+c id 1952 type edge_consistency
+-83 -42 0
+c id 1953 type edge_consistency
+-83 -43 0
+c id 1954 type edge_consistency
+-83 -44 0
+c id 1955 type edge_consistency
+-83 -45 0
+c id 1956 type edge_consistency
+-83 -46 0
+c id 1957 type edge_consistency
+-83 -47 0
+c id 1958 type edge_consistency
+-83 -48 0
+c id 1959 type edge_consistency
+-84 -25 0
+c id 1960 type edge_consistency
+-84 -26 0
+c id 1961 type edge_consistency
+-84 -27 0
+c id 1962 type edge_consistency
+-84 -28 0
+c id 1963 type edge_consistency
+-84 -29 0
+c id 1964 type edge_consistency
+-84 -31 0
+c id 1965 type edge_consistency
+-84 -32 0
+c id 1966 type edge_consistency
+-84 -33 0
+c id 1967 type edge_consistency
+-84 -36 0
+c id 1968 type edge_consistency
+-84 -37 0
+c id 1969 type edge_consistency
+-84 -38 0
+c id 1970 type edge_consistency
+-84 -39 0
+c id 1971 type edge_consistency
+-84 -40 0
+c id 1972 type edge_consistency
+-84 -41 0
+c id 1973 type edge_consistency
+-84 -43 0
+c id 1974 type edge_consistency
+-84 -44 0
+c id 1975 type edge_consistency
+-84 -45 0
+c id 1976 type edge_consistency
+-84 -46 0
+c id 1977 type edge_consistency
+-84 -47 0
+c id 1978 type edge_consistency
+-84 -48 0
+c id 1979 type edge_consistency
+-85 -25 0
+c id 1980 type edge_consistency
+-85 -26 0
+c id 1981 type edge_consistency
+-85 -27 0
+c id 1982 type edge_consistency
+-85 -28 0
+c id 1983 type edge_consistency
+-85 -29 0
+c id 1984 type edge_consistency
+-85 -30 0
+c id 1985 type edge_consistency
+-85 -32 0
+c id 1986 type edge_consistency
+-85 -33 0
+c id 1987 type edge_consistency
+-85 -34 0
+c id 1988 type edge_consistency
+-85 -35 0
+c id 1989 type edge_consistency
+-85 -36 0
+c id 1990 type edge_consistency
+-85 -37 0
+c id 1991 type edge_consistency
+-85 -40 0
+c id 1992 type edge_consistency
+-85 -41 0
+c id 1993 type edge_consistency
+-85 -42 0
+c id 1994 type edge_consistency
+-85 -44 0
+c id 1995 type edge_consistency
+-85 -45 0
+c id 1996 type edge_consistency
+-85 -46 0
+c id 1997 type edge_consistency
+-85 -47 0
+c id 1998 type edge_consistency
+-85 -48 0
+c id 1999 type edge_consistency
+-86 -25 0
+c id 2000 type edge_consistency
+-86 -26 0
+c id 2001 type edge_consistency
+-86 -27 0
+c id 2002 type edge_consistency
+-86 -28 0
+c id 2003 type edge_consistency
+-86 -29 0
+c id 2004 type edge_consistency
+-86 -30 0
+c id 2005 type edge_consistency
+-86 -31 0
+c id 2006 type edge_consistency
+-86 -33 0
+c id 2007 type edge_consistency
+-86 -34 0
+c id 2008 type edge_consistency
+-86 -35 0
+c id 2009 type edge_consistency
+-86 -36 0
+c id 2010 type edge_consistency
+-86 -38 0
+c id 2011 type edge_consistency
+-86 -39 0
+c id 2012 type edge_consistency
+-86 -41 0
+c id 2013 type edge_consistency
+-86 -42 0
+c id 2014 type edge_consistency
+-86 -43 0
+c id 2015 type edge_consistency
+-86 -45 0
+c id 2016 type edge_consistency
+-86 -46 0
+c id 2017 type edge_consistency
+-86 -47 0
+c id 2018 type edge_consistency
+-86 -48 0
+c id 2019 type edge_consistency
+-87 -25 0
+c id 2020 type edge_consistency
+-87 -26 0
+c id 2021 type edge_consistency
+-87 -27 0
+c id 2022 type edge_consistency
+-87 -28 0
+c id 2023 type edge_consistency
+-87 -29 0
+c id 2024 type edge_consistency
+-87 -30 0
+c id 2025 type edge_consistency
+-87 -31 0
+c id 2026 type edge_consistency
+-87 -32 0
+c id 2027 type edge_consistency
+-87 -34 0
+c id 2028 type edge_consistency
+-87 -35 0
+c id 2029 type edge_consistency
+-87 -36 0
+c id 2030 type edge_consistency
+-87 -38 0
+c id 2031 type edge_consistency
+-87 -39 0
+c id 2032 type edge_consistency
+-87 -42 0
+c id 2033 type edge_consistency
+-87 -43 0
+c id 2034 type edge_consistency
+-87 -44 0
+c id 2035 type edge_consistency
+-87 -46 0
+c id 2036 type edge_consistency
+-87 -47 0
+c id 2037 type edge_consistency
+-87 -48 0
+c id 2038 type edge_consistency
+-88 -25 0
+c id 2039 type edge_consistency
+-88 -26 0
+c id 2040 type edge_consistency
+-88 -27 0
+c id 2041 type edge_consistency
+-88 -28 0
+c id 2042 type edge_consistency
+-88 -29 0
+c id 2043 type edge_consistency
+-88 -30 0
+c id 2044 type edge_consistency
+-88 -31 0
+c id 2045 type edge_consistency
+-88 -32 0
+c id 2046 type edge_consistency
+-88 -33 0
+c id 2047 type edge_consistency
+-88 -35 0
+c id 2048 type edge_consistency
+-88 -36 0
+c id 2049 type edge_consistency
+-88 -37 0
+c id 2050 type edge_consistency
+-88 -40 0
+c id 2051 type edge_consistency
+-88 -41 0
+c id 2052 type edge_consistency
+-88 -43 0
+c id 2053 type edge_consistency
+-88 -44 0
+c id 2054 type edge_consistency
+-88 -45 0
+c id 2055 type edge_consistency
+-88 -47 0
+c id 2056 type edge_consistency
+-88 -48 0
+c id 2057 type edge_consistency
+-89 -25 0
+c id 2058 type edge_consistency
+-89 -26 0
+c id 2059 type edge_consistency
+-89 -27 0
+c id 2060 type edge_consistency
+-89 -28 0
+c id 2061 type edge_consistency
+-89 -29 0
+c id 2062 type edge_consistency
+-89 -30 0
+c id 2063 type edge_consistency
+-89 -31 0
+c id 2064 type edge_consistency
+-89 -32 0
+c id 2065 type edge_consistency
+-89 -33 0
+c id 2066 type edge_consistency
+-89 -34 0
+c id 2067 type edge_consistency
+-89 -36 0
+c id 2068 type edge_consistency
+-89 -37 0
+c id 2069 type edge_consistency
+-89 -38 0
+c id 2070 type edge_consistency
+-89 -40 0
+c id 2071 type edge_consistency
+-89 -41 0
+c id 2072 type edge_consistency
+-89 -43 0
+c id 2073 type edge_consistency
+-89 -44 0
+c id 2074 type edge_consistency
+-89 -45 0
+c id 2075 type edge_consistency
+-89 -46 0
+c id 2076 type edge_consistency
+-89 -48 0
+c id 2077 type edge_consistency
+-90 -25 0
+c id 2078 type edge_consistency
+-90 -26 0
+c id 2079 type edge_consistency
+-90 -27 0
+c id 2080 type edge_consistency
+-90 -28 0
+c id 2081 type edge_consistency
+-90 -29 0
+c id 2082 type edge_consistency
+-90 -30 0
+c id 2083 type edge_consistency
+-90 -31 0
+c id 2084 type edge_consistency
+-90 -32 0
+c id 2085 type edge_consistency
+-90 -33 0
+c id 2086 type edge_consistency
+-90 -34 0
+c id 2087 type edge_consistency
+-90 -35 0
+c id 2088 type edge_consistency
+-90 -37 0
+c id 2089 type edge_consistency
+-90 -38 0
+c id 2090 type edge_consistency
+-90 -39 0
+c id 2091 type edge_consistency
+-90 -42 0
+c id 2092 type edge_consistency
+-90 -43 0
+c id 2093 type edge_consistency
+-90 -44 0
+c id 2094 type edge_consistency
+-90 -45 0
+c id 2095 type edge_consistency
+-90 -46 0
+c id 2096 type edge_consistency
+-90 -47 0
+c id 2097 type edge_consistency
+-91 -25 0
+c id 2098 type edge_consistency
+-91 -26 0
+c id 2099 type edge_consistency
+-91 -27 0
+c id 2100 type edge_consistency
+-91 -28 0
+c id 2101 type edge_consistency
+-91 -29 0
+c id 2102 type edge_consistency
+-91 -30 0
+c id 2103 type edge_consistency
+-91 -31 0
+c id 2104 type edge_consistency
+-91 -32 0
+c id 2105 type edge_consistency
+-91 -33 0
+c id 2106 type edge_consistency
+-91 -34 0
+c id 2107 type edge_consistency
+-91 -35 0
+c id 2108 type edge_consistency
+-91 -36 0
+c id 2109 type edge_consistency
+-91 -38 0
+c id 2110 type edge_consistency
+-91 -39 0
+c id 2111 type edge_consistency
+-91 -40 0
+c id 2112 type edge_consistency
+-91 -41 0
+c id 2113 type edge_consistency
+-91 -42 0
+c id 2114 type edge_consistency
+-91 -43 0
+c id 2115 type edge_consistency
+-91 -46 0
+c id 2116 type edge_consistency
+-91 -47 0
+c id 2117 type edge_consistency
+-91 -48 0
+c id 2118 type edge_consistency
+-92 -25 0
+c id 2119 type edge_consistency
+-92 -26 0
+c id 2120 type edge_consistency
+-92 -27 0
+c id 2121 type edge_consistency
+-92 -28 0
+c id 2122 type edge_consistency
+-92 -29 0
+c id 2123 type edge_consistency
+-92 -30 0
+c id 2124 type edge_consistency
+-92 -31 0
+c id 2125 type edge_consistency
+-92 -32 0
+c id 2126 type edge_consistency
+-92 -33 0
+c id 2127 type edge_consistency
+-92 -34 0
+c id 2128 type edge_consistency
+-92 -35 0
+c id 2129 type edge_consistency
+-92 -36 0
+c id 2130 type edge_consistency
+-92 -37 0
+c id 2131 type edge_consistency
+-92 -39 0
+c id 2132 type edge_consistency
+-92 -40 0
+c id 2133 type edge_consistency
+-92 -41 0
+c id 2134 type edge_consistency
+-92 -42 0
+c id 2135 type edge_consistency
+-92 -44 0
+c id 2136 type edge_consistency
+-92 -45 0
+c id 2137 type edge_consistency
+-92 -47 0
+c id 2138 type edge_consistency
+-92 -48 0
+c id 2139 type edge_consistency
+-93 -25 0
+c id 2140 type edge_consistency
+-93 -26 0
+c id 2141 type edge_consistency
+-93 -27 0
+c id 2142 type edge_consistency
+-93 -28 0
+c id 2143 type edge_consistency
+-93 -29 0
+c id 2144 type edge_consistency
+-93 -30 0
+c id 2145 type edge_consistency
+-93 -31 0
+c id 2146 type edge_consistency
+-93 -32 0
+c id 2147 type edge_consistency
+-93 -33 0
+c id 2148 type edge_consistency
+-93 -34 0
+c id 2149 type edge_consistency
+-93 -35 0
+c id 2150 type edge_consistency
+-93 -36 0
+c id 2151 type edge_consistency
+-93 -37 0
+c id 2152 type edge_consistency
+-93 -38 0
+c id 2153 type edge_consistency
+-93 -40 0
+c id 2154 type edge_consistency
+-93 -41 0
+c id 2155 type edge_consistency
+-93 -42 0
+c id 2156 type edge_consistency
+-93 -44 0
+c id 2157 type edge_consistency
+-93 -45 0
+c id 2158 type edge_consistency
+-93 -48 0
+c id 2159 type edge_consistency
+-94 -25 0
+c id 2160 type edge_consistency
+-94 -26 0
+c id 2161 type edge_consistency
+-94 -27 0
+c id 2162 type edge_consistency
+-94 -28 0
+c id 2163 type edge_consistency
+-94 -29 0
+c id 2164 type edge_consistency
+-94 -30 0
+c id 2165 type edge_consistency
+-94 -31 0
+c id 2166 type edge_consistency
+-94 -32 0
+c id 2167 type edge_consistency
+-94 -33 0
+c id 2168 type edge_consistency
+-94 -34 0
+c id 2169 type edge_consistency
+-94 -35 0
+c id 2170 type edge_consistency
+-94 -36 0
+c id 2171 type edge_consistency
+-94 -37 0
+c id 2172 type edge_consistency
+-94 -38 0
+c id 2173 type edge_consistency
+-94 -39 0
+c id 2174 type edge_consistency
+-94 -41 0
+c id 2175 type edge_consistency
+-94 -42 0
+c id 2176 type edge_consistency
+-94 -43 0
+c id 2177 type edge_consistency
+-94 -46 0
+c id 2178 type edge_consistency
+-94 -47 0
+c id 2179 type edge_consistency
+-95 -25 0
+c id 2180 type edge_consistency
+-95 -26 0
+c id 2181 type edge_consistency
+-95 -27 0
+c id 2182 type edge_consistency
+-95 -28 0
+c id 2183 type edge_consistency
+-95 -29 0
+c id 2184 type edge_consistency
+-95 -30 0
+c id 2185 type edge_consistency
+-95 -31 0
+c id 2186 type edge_consistency
+-95 -32 0
+c id 2187 type edge_consistency
+-95 -33 0
+c id 2188 type edge_consistency
+-95 -34 0
+c id 2189 type edge_consistency
+-95 -35 0
+c id 2190 type edge_consistency
+-95 -36 0
+c id 2191 type edge_consistency
+-95 -37 0
+c id 2192 type edge_consistency
+-95 -38 0
+c id 2193 type edge_consistency
+-95 -39 0
+c id 2194 type edge_consistency
+-95 -40 0
+c id 2195 type edge_consistency
+-95 -42 0
+c id 2196 type edge_consistency
+-95 -43 0
+c id 2197 type edge_consistency
+-95 -44 0
+c id 2198 type edge_consistency
+-95 -46 0
+c id 2199 type edge_consistency
+-95 -47 0
+c id 2200 type edge_consistency
+-96 -25 0
+c id 2201 type edge_consistency
+-96 -26 0
+c id 2202 type edge_consistency
+-96 -27 0
+c id 2203 type edge_consistency
+-96 -28 0
+c id 2204 type edge_consistency
+-96 -29 0
+c id 2205 type edge_consistency
+-96 -30 0
+c id 2206 type edge_consistency
+-96 -31 0
+c id 2207 type edge_consistency
+-96 -32 0
+c id 2208 type edge_consistency
+-96 -33 0
+c id 2209 type edge_consistency
+-96 -34 0
+c id 2210 type edge_consistency
+-96 -35 0
+c id 2211 type edge_consistency
+-96 -36 0
+c id 2212 type edge_consistency
+-96 -37 0
+c id 2213 type edge_consistency
+-96 -38 0
+c id 2214 type edge_consistency
+-96 -39 0
+c id 2215 type edge_consistency
+-96 -40 0
+c id 2216 type edge_consistency
+-96 -41 0
+c id 2217 type edge_consistency
+-96 -43 0
+c id 2218 type edge_consistency
+-96 -44 0
+c id 2219 type edge_consistency
+-96 -45 0
+c id 2220 type edge_consistency
+-96 -48 0
+c id 2221 type edge_consistency
+-73 -49 0
+c id 2222 type edge_consistency
+-73 -52 0
+c id 2223 type edge_consistency
+-73 -53 0
+c id 2224 type edge_consistency
+-73 -54 0
+c id 2225 type edge_consistency
+-73 -56 0
+c id 2226 type edge_consistency
+-73 -57 0
+c id 2227 type edge_consistency
+-73 -58 0
+c id 2228 type edge_consistency
+-73 -59 0
+c id 2229 type edge_consistency
+-73 -60 0
+c id 2230 type edge_consistency
+-73 -61 0
+c id 2231 type edge_consistency
+-73 -62 0
+c id 2232 type edge_consistency
+-73 -63 0
+c id 2233 type edge_consistency
+-73 -64 0
+c id 2234 type edge_consistency
+-73 -65 0
+c id 2235 type edge_consistency
+-73 -66 0
+c id 2236 type edge_consistency
+-73 -67 0
+c id 2237 type edge_consistency
+-73 -68 0
+c id 2238 type edge_consistency
+-73 -69 0
+c id 2239 type edge_consistency
+-73 -70 0
+c id 2240 type edge_consistency
+-73 -71 0
+c id 2241 type edge_consistency
+-73 -72 0
+c id 2242 type edge_consistency
+-74 -50 0
+c id 2243 type edge_consistency
+-74 -51 0
+c id 2244 type edge_consistency
+-74 -53 0
+c id 2245 type edge_consistency
+-74 -54 0
+c id 2246 type edge_consistency
+-74 -55 0
+c id 2247 type edge_consistency
+-74 -57 0
+c id 2248 type edge_consistency
+-74 -58 0
+c id 2249 type edge_consistency
+-74 -59 0
+c id 2250 type edge_consistency
+-74 -60 0
+c id 2251 type edge_consistency
+-74 -61 0
+c id 2252 type edge_consistency
+-74 -62 0
+c id 2253 type edge_consistency
+-74 -63 0
+c id 2254 type edge_consistency
+-74 -64 0
+c id 2255 type edge_consistency
+-74 -65 0
+c id 2256 type edge_consistency
+-74 -66 0
+c id 2257 type edge_consistency
+-74 -67 0
+c id 2258 type edge_consistency
+-74 -68 0
+c id 2259 type edge_consistency
+-74 -69 0
+c id 2260 type edge_consistency
+-74 -70 0
+c id 2261 type edge_consistency
+-74 -71 0
+c id 2262 type edge_consistency
+-74 -72 0
+c id 2263 type edge_consistency
+-75 -50 0
+c id 2264 type edge_consistency
+-75 -51 0
+c id 2265 type edge_consistency
+-75 -54 0
+c id 2266 type edge_consistency
+-75 -55 0
+c id 2267 type edge_consistency
+-75 -56 0
+c id 2268 type edge_consistency
+-75 -58 0
+c id 2269 type edge_consistency
+-75 -59 0
+c id 2270 type edge_consistency
+-75 -60 0
+c id 2271 type edge_consistency
+-75 -61 0
+c id 2272 type edge_consistency
+-75 -62 0
+c id 2273 type edge_consistency
+-75 -63 0
+c id 2274 type edge_consistency
+-75 -64 0
+c id 2275 type edge_consistency
+-75 -65 0
+c id 2276 type edge_consistency
+-75 -66 0
+c id 2277 type edge_consistency
+-75 -67 0
+c id 2278 type edge_consistency
+-75 -68 0
+c id 2279 type edge_consistency
+-75 -69 0
+c id 2280 type edge_consistency
+-75 -70 0
+c id 2281 type edge_consistency
+-75 -71 0
+c id 2282 type edge_consistency
+-75 -72 0
+c id 2283 type edge_consistency
+-76 -49 0
+c id 2284 type edge_consistency
+-76 -52 0
+c id 2285 type edge_consistency
+-76 -53 0
+c id 2286 type edge_consistency
+-76 -55 0
+c id 2287 type edge_consistency
+-76 -56 0
+c id 2288 type edge_consistency
+-76 -57 0
+c id 2289 type edge_consistency
+-76 -59 0
+c id 2290 type edge_consistency
+-76 -60 0
+c id 2291 type edge_consistency
+-76 -61 0
+c id 2292 type edge_consistency
+-76 -62 0
+c id 2293 type edge_consistency
+-76 -63 0
+c id 2294 type edge_consistency
+-76 -64 0
+c id 2295 type edge_consistency
+-76 -65 0
+c id 2296 type edge_consistency
+-76 -66 0
+c id 2297 type edge_consistency
+-76 -67 0
+c id 2298 type edge_consistency
+-76 -68 0
+c id 2299 type edge_consistency
+-76 -69 0
+c id 2300 type edge_consistency
+-76 -70 0
+c id 2301 type edge_consistency
+-76 -71 0
+c id 2302 type edge_consistency
+-76 -72 0
+c id 2303 type edge_consistency
+-77 -49 0
+c id 2304 type edge_consistency
+-77 -50 0
+c id 2305 type edge_consistency
+-77 -52 0
+c id 2306 type edge_consistency
+-77 -53 0
+c id 2307 type edge_consistency
+-77 -55 0
+c id 2308 type edge_consistency
+-77 -56 0
+c id 2309 type edge_consistency
+-77 -57 0
+c id 2310 type edge_consistency
+-77 -58 0
+c id 2311 type edge_consistency
+-77 -60 0
+c id 2312 type edge_consistency
+-77 -61 0
+c id 2313 type edge_consistency
+-77 -62 0
+c id 2314 type edge_consistency
+-77 -63 0
+c id 2315 type edge_consistency
+-77 -64 0
+c id 2316 type edge_consistency
+-77 -65 0
+c id 2317 type edge_consistency
+-77 -66 0
+c id 2318 type edge_consistency
+-77 -67 0
+c id 2319 type edge_consistency
+-77 -68 0
+c id 2320 type edge_consistency
+-77 -69 0
+c id 2321 type edge_consistency
+-77 -70 0
+c id 2322 type edge_consistency
+-77 -71 0
+c id 2323 type edge_consistency
+-77 -72 0
+c id 2324 type edge_consistency
+-78 -49 0
+c id 2325 type edge_consistency
+-78 -50 0
+c id 2326 type edge_consistency
+-78 -51 0
+c id 2327 type edge_consistency
+-78 -54 0
+c id 2328 type edge_consistency
+-78 -55 0
+c id 2329 type edge_consistency
+-78 -56 0
+c id 2330 type edge_consistency
+-78 -57 0
+c id 2331 type edge_consistency
+-78 -58 0
+c id 2332 type edge_consistency
+-78 -59 0
+c id 2333 type edge_consistency
+-78 -61 0
+c id 2334 type edge_consistency
+-78 -62 0
+c id 2335 type edge_consistency
+-78 -63 0
+c id 2336 type edge_consistency
+-78 -64 0
+c id 2337 type edge_consistency
+-78 -65 0
+c id 2338 type edge_consistency
+-78 -66 0
+c id 2339 type edge_consistency
+-78 -67 0
+c id 2340 type edge_consistency
+-78 -68 0
+c id 2341 type edge_consistency
+-78 -69 0
+c id 2342 type edge_consistency
+-78 -70 0
+c id 2343 type edge_consistency
+-78 -71 0
+c id 2344 type edge_consistency
+-78 -72 0
+c id 2345 type edge_consistency
+-79 -50 0
+c id 2346 type edge_consistency
+-79 -51 0
+c id 2347 type edge_consistency
+-79 -52 0
+c id 2348 type edge_consistency
+-79 -53 0
+c id 2349 type edge_consistency
+-79 -54 0
+c id 2350 type edge_consistency
+-79 -55 0
+c id 2351 type edge_consistency
+-79 -58 0
+c id 2352 type edge_consistency
+-79 -59 0
+c id 2353 type edge_consistency
+-79 -60 0
+c id 2354 type edge_consistency
+-79 -62 0
+c id 2355 type edge_consistency
+-79 -63 0
+c id 2356 type edge_consistency
+-79 -64 0
+c id 2357 type edge_consistency
+-79 -65 0
+c id 2358 type edge_consistency
+-79 -66 0
+c id 2359 type edge_consistency
+-79 -67 0
+c id 2360 type edge_consistency
+-79 -68 0
+c id 2361 type edge_consistency
+-79 -69 0
+c id 2362 type edge_consistency
+-79 -70 0
+c id 2363 type edge_consistency
+-79 -71 0
+c id 2364 type edge_consistency
+-79 -72 0
+c id 2365 type edge_consistency
+-80 -49 0
+c id 2366 type edge_consistency
+-80 -51 0
+c id 2367 type edge_consistency
+-80 -52 0
+c id 2368 type edge_consistency
+-80 -53 0
+c id 2369 type edge_consistency
+-80 -54 0
+c id 2370 type edge_consistency
+-80 -56 0
+c id 2371 type edge_consistency
+-80 -57 0
+c id 2372 type edge_consistency
+-80 -59 0
+c id 2373 type edge_consistency
+-80 -60 0
+c id 2374 type edge_consistency
+-80 -61 0
+c id 2375 type edge_consistency
+-80 -63 0
+c id 2376 type edge_consistency
+-80 -64 0
+c id 2377 type edge_consistency
+-80 -65 0
+c id 2378 type edge_consistency
+-80 -66 0
+c id 2379 type edge_consistency
+-80 -67 0
+c id 2380 type edge_consistency
+-80 -68 0
+c id 2381 type edge_consistency
+-80 -69 0
+c id 2382 type edge_consistency
+-80 -70 0
+c id 2383 type edge_consistency
+-80 -71 0
+c id 2384 type edge_consistency
+-80 -72 0
+c id 2385 type edge_consistency
+-81 -49 0
+c id 2386 type edge_consistency
+-81 -50 0
+c id 2387 type edge_consistency
+-81 -52 0
+c id 2388 type edge_consistency
+-81 -53 0
+c id 2389 type edge_consistency
+-81 -54 0
+c id 2390 type edge_consistency
+-81 -56 0
+c id 2391 type edge_consistency
+-81 -57 0
+c id 2392 type edge_consistency
+-81 -60 0
+c id 2393 type edge_consistency
+-81 -61 0
+c id 2394 type edge_consistency
+-81 -62 0
+c id 2395 type edge_consistency
+-81 -64 0
+c id 2396 type edge_consistency
+-81 -65 0
+c id 2397 type edge_consistency
+-81 -66 0
+c id 2398 type edge_consistency
+-81 -67 0
+c id 2399 type edge_consistency
+-81 -68 0
+c id 2400 type edge_consistency
+-81 -69 0
+c id 2401 type edge_consistency
+-81 -70 0
+c id 2402 type edge_consistency
+-81 -71 0
+c id 2403 type edge_consistency
+-81 -72 0
+c id 2404 type edge_consistency
+-82 -49 0
+c id 2405 type edge_consistency
+-82 -50 0
+c id 2406 type edge_consistency
+-82 -51 0
+c id 2407 type edge_consistency
+-82 -53 0
+c id 2408 type edge_consistency
+-82 -54 0
+c id 2409 type edge_consistency
+-82 -55 0
+c id 2410 type edge_consistency
+-82 -58 0
+c id 2411 type edge_consistency
+-82 -59 0
+c id 2412 type edge_consistency
+-82 -61 0
+c id 2413 type edge_consistency
+-82 -62 0
+c id 2414 type edge_consistency
+-82 -63 0
+c id 2415 type edge_consistency
+-82 -65 0
+c id 2416 type edge_consistency
+-82 -66 0
+c id 2417 type edge_consistency
+-82 -67 0
+c id 2418 type edge_consistency
+-82 -68 0
+c id 2419 type edge_consistency
+-82 -69 0
+c id 2420 type edge_consistency
+-82 -70 0
+c id 2421 type edge_consistency
+-82 -71 0
+c id 2422 type edge_consistency
+-82 -72 0
+c id 2423 type edge_consistency
+-83 -49 0
+c id 2424 type edge_consistency
+-83 -50 0
+c id 2425 type edge_consistency
+-83 -51 0
+c id 2426 type edge_consistency
+-83 -52 0
+c id 2427 type edge_consistency
+-83 -54 0
+c id 2428 type edge_consistency
+-83 -55 0
+c id 2429 type edge_consistency
+-83 -56 0
+c id 2430 type edge_consistency
+-83 -58 0
+c id 2431 type edge_consistency
+-83 -59 0
+c id 2432 type edge_consistency
+-83 -61 0
+c id 2433 type edge_consistency
+-83 -62 0
+c id 2434 type edge_consistency
+-83 -63 0
+c id 2435 type edge_consistency
+-83 -64 0
+c id 2436 type edge_consistency
+-83 -66 0
+c id 2437 type edge_consistency
+-83 -67 0
+c id 2438 type edge_consistency
+-83 -68 0
+c id 2439 type edge_consistency
+-83 -69 0
+c id 2440 type edge_consistency
+-83 -70 0
+c id 2441 type edge_consistency
+-83 -71 0
+c id 2442 type edge_consistency
+-83 -72 0
+c id 2443 type edge_consistency
+-84 -49 0
+c id 2444 type edge_consistency
+-84 -50 0
+c id 2445 type edge_consistency
+-84 -51 0
+c id 2446 type edge_consistency
+-84 -52 0
+c id 2447 type edge_consistency
+-84 -53 0
+c id 2448 type edge_consistency
+-84 -55 0
+c id 2449 type edge_consistency
+-84 -56 0
+c id 2450 type edge_consistency
+-84 -57 0
+c id 2451 type edge_consistency
+-84 -60 0
+c id 2452 type edge_consistency
+-84 -61 0
+c id 2453 type edge_consistency
+-84 -62 0
+c id 2454 type edge_consistency
+-84 -63 0
+c id 2455 type edge_consistency
+-84 -64 0
+c id 2456 type edge_consistency
+-84 -65 0
+c id 2457 type edge_consistency
+-84 -67 0
+c id 2458 type edge_consistency
+-84 -68 0
+c id 2459 type edge_consistency
+-84 -69 0
+c id 2460 type edge_consistency
+-84 -70 0
+c id 2461 type edge_consistency
+-84 -71 0
+c id 2462 type edge_consistency
+-84 -72 0
+c id 2463 type edge_consistency
+-85 -49 0
+c id 2464 type edge_consistency
+-85 -50 0
+c id 2465 type edge_consistency
+-85 -51 0
+c id 2466 type edge_consistency
+-85 -52 0
+c id 2467 type edge_consistency
+-85 -53 0
+c id 2468 type edge_consistency
+-85 -54 0
+c id 2469 type edge_consistency
+-85 -56 0
+c id 2470 type edge_consistency
+-85 -57 0
+c id 2471 type edge_consistency
+-85 -58 0
+c id 2472 type edge_consistency
+-85 -59 0
+c id 2473 type edge_consistency
+-85 -60 0
+c id 2474 type edge_consistency
+-85 -61 0
+c id 2475 type edge_consistency
+-85 -64 0
+c id 2476 type edge_consistency
+-85 -65 0
+c id 2477 type edge_consistency
+-85 -66 0
+c id 2478 type edge_consistency
+-85 -68 0
+c id 2479 type edge_consistency
+-85 -69 0
+c id 2480 type edge_consistency
+-85 -70 0
+c id 2481 type edge_consistency
+-85 -71 0
+c id 2482 type edge_consistency
+-85 -72 0
+c id 2483 type edge_consistency
+-86 -49 0
+c id 2484 type edge_consistency
+-86 -50 0
+c id 2485 type edge_consistency
+-86 -51 0
+c id 2486 type edge_consistency
+-86 -52 0
+c id 2487 type edge_consistency
+-86 -53 0
+c id 2488 type edge_consistency
+-86 -54 0
+c id 2489 type edge_consistency
+-86 -55 0
+c id 2490 type edge_consistency
+-86 -57 0
+c id 2491 type edge_consistency
+-86 -58 0
+c id 2492 type edge_consistency
+-86 -59 0
+c id 2493 type edge_consistency
+-86 -60 0
+c id 2494 type edge_consistency
+-86 -62 0
+c id 2495 type edge_consistency
+-86 -63 0
+c id 2496 type edge_consistency
+-86 -65 0
+c id 2497 type edge_consistency
+-86 -66 0
+c id 2498 type edge_consistency
+-86 -67 0
+c id 2499 type edge_consistency
+-86 -69 0
+c id 2500 type edge_consistency
+-86 -70 0
+c id 2501 type edge_consistency
+-86 -71 0
+c id 2502 type edge_consistency
+-86 -72 0
+c id 2503 type edge_consistency
+-87 -49 0
+c id 2504 type edge_consistency
+-87 -50 0
+c id 2505 type edge_consistency
+-87 -51 0
+c id 2506 type edge_consistency
+-87 -52 0
+c id 2507 type edge_consistency
+-87 -53 0
+c id 2508 type edge_consistency
+-87 -54 0
+c id 2509 type edge_consistency
+-87 -55 0
+c id 2510 type edge_consistency
+-87 -56 0
+c id 2511 type edge_consistency
+-87 -58 0
+c id 2512 type edge_consistency
+-87 -59 0
+c id 2513 type edge_consistency
+-87 -60 0
+c id 2514 type edge_consistency
+-87 -62 0
+c id 2515 type edge_consistency
+-87 -63 0
+c id 2516 type edge_consistency
+-87 -66 0
+c id 2517 type edge_consistency
+-87 -67 0
+c id 2518 type edge_consistency
+-87 -68 0
+c id 2519 type edge_consistency
+-87 -70 0
+c id 2520 type edge_consistency
+-87 -71 0
+c id 2521 type edge_consistency
+-87 -72 0
+c id 2522 type edge_consistency
+-88 -49 0
+c id 2523 type edge_consistency
+-88 -50 0
+c id 2524 type edge_consistency
+-88 -51 0
+c id 2525 type edge_consistency
+-88 -52 0
+c id 2526 type edge_consistency
+-88 -53 0
+c id 2527 type edge_consistency
+-88 -54 0
+c id 2528 type edge_consistency
+-88 -55 0
+c id 2529 type edge_consistency
+-88 -56 0
+c id 2530 type edge_consistency
+-88 -57 0
+c id 2531 type edge_consistency
+-88 -59 0
+c id 2532 type edge_consistency
+-88 -60 0
+c id 2533 type edge_consistency
+-88 -61 0
+c id 2534 type edge_consistency
+-88 -64 0
+c id 2535 type edge_consistency
+-88 -65 0
+c id 2536 type edge_consistency
+-88 -67 0
+c id 2537 type edge_consistency
+-88 -68 0
+c id 2538 type edge_consistency
+-88 -69 0
+c id 2539 type edge_consistency
+-88 -71 0
+c id 2540 type edge_consistency
+-88 -72 0
+c id 2541 type edge_consistency
+-89 -49 0
+c id 2542 type edge_consistency
+-89 -50 0
+c id 2543 type edge_consistency
+-89 -51 0
+c id 2544 type edge_consistency
+-89 -52 0
+c id 2545 type edge_consistency
+-89 -53 0
+c id 2546 type edge_consistency
+-89 -54 0
+c id 2547 type edge_consistency
+-89 -55 0
+c id 2548 type edge_consistency
+-89 -56 0
+c id 2549 type edge_consistency
+-89 -57 0
+c id 2550 type edge_consistency
+-89 -58 0
+c id 2551 type edge_consistency
+-89 -60 0
+c id 2552 type edge_consistency
+-89 -61 0
+c id 2553 type edge_consistency
+-89 -62 0
+c id 2554 type edge_consistency
+-89 -64 0
+c id 2555 type edge_consistency
+-89 -65 0
+c id 2556 type edge_consistency
+-89 -67 0
+c id 2557 type edge_consistency
+-89 -68 0
+c id 2558 type edge_consistency
+-89 -69 0
+c id 2559 type edge_consistency
+-89 -70 0
+c id 2560 type edge_consistency
+-89 -72 0
+c id 2561 type edge_consistency
+-90 -49 0
+c id 2562 type edge_consistency
+-90 -50 0
+c id 2563 type edge_consistency
+-90 -51 0
+c id 2564 type edge_consistency
+-90 -52 0
+c id 2565 type edge_consistency
+-90 -53 0
+c id 2566 type edge_consistency
+-90 -54 0
+c id 2567 type edge_consistency
+-90 -55 0
+c id 2568 type edge_consistency
+-90 -56 0
+c id 2569 type edge_consistency
+-90 -57 0
+c id 2570 type edge_consistency
+-90 -58 0
+c id 2571 type edge_consistency
+-90 -59 0
+c id 2572 type edge_consistency
+-90 -61 0
+c id 2573 type edge_consistency
+-90 -62 0
+c id 2574 type edge_consistency
+-90 -63 0
+c id 2575 type edge_consistency
+-90 -66 0
+c id 2576 type edge_consistency
+-90 -67 0
+c id 2577 type edge_consistency
+-90 -68 0
+c id 2578 type edge_consistency
+-90 -69 0
+c id 2579 type edge_consistency
+-90 -70 0
+c id 2580 type edge_consistency
+-90 -71 0
+c id 2581 type edge_consistency
+-91 -49 0
+c id 2582 type edge_consistency
+-91 -50 0
+c id 2583 type edge_consistency
+-91 -51 0
+c id 2584 type edge_consistency
+-91 -52 0
+c id 2585 type edge_consistency
+-91 -53 0
+c id 2586 type edge_consistency
+-91 -54 0
+c id 2587 type edge_consistency
+-91 -55 0
+c id 2588 type edge_consistency
+-91 -56 0
+c id 2589 type edge_consistency
+-91 -57 0
+c id 2590 type edge_consistency
+-91 -58 0
+c id 2591 type edge_consistency
+-91 -59 0
+c id 2592 type edge_consistency
+-91 -60 0
+c id 2593 type edge_consistency
+-91 -62 0
+c id 2594 type edge_consistency
+-91 -63 0
+c id 2595 type edge_consistency
+-91 -64 0
+c id 2596 type edge_consistency
+-91 -65 0
+c id 2597 type edge_consistency
+-91 -66 0
+c id 2598 type edge_consistency
+-91 -67 0
+c id 2599 type edge_consistency
+-91 -70 0
+c id 2600 type edge_consistency
+-91 -71 0
+c id 2601 type edge_consistency
+-91 -72 0
+c id 2602 type edge_consistency
+-92 -49 0
+c id 2603 type edge_consistency
+-92 -50 0
+c id 2604 type edge_consistency
+-92 -51 0
+c id 2605 type edge_consistency
+-92 -52 0
+c id 2606 type edge_consistency
+-92 -53 0
+c id 2607 type edge_consistency
+-92 -54 0
+c id 2608 type edge_consistency
+-92 -55 0
+c id 2609 type edge_consistency
+-92 -56 0
+c id 2610 type edge_consistency
+-92 -57 0
+c id 2611 type edge_consistency
+-92 -58 0
+c id 2612 type edge_consistency
+-92 -59 0
+c id 2613 type edge_consistency
+-92 -60 0
+c id 2614 type edge_consistency
+-92 -61 0
+c id 2615 type edge_consistency
+-92 -63 0
+c id 2616 type edge_consistency
+-92 -64 0
+c id 2617 type edge_consistency
+-92 -65 0
+c id 2618 type edge_consistency
+-92 -66 0
+c id 2619 type edge_consistency
+-92 -68 0
+c id 2620 type edge_consistency
+-92 -69 0
+c id 2621 type edge_consistency
+-92 -71 0
+c id 2622 type edge_consistency
+-92 -72 0
+c id 2623 type edge_consistency
+-93 -49 0
+c id 2624 type edge_consistency
+-93 -50 0
+c id 2625 type edge_consistency
+-93 -51 0
+c id 2626 type edge_consistency
+-93 -52 0
+c id 2627 type edge_consistency
+-93 -53 0
+c id 2628 type edge_consistency
+-93 -54 0
+c id 2629 type edge_consistency
+-93 -55 0
+c id 2630 type edge_consistency
+-93 -56 0
+c id 2631 type edge_consistency
+-93 -57 0
+c id 2632 type edge_consistency
+-93 -58 0
+c id 2633 type edge_consistency
+-93 -59 0
+c id 2634 type edge_consistency
+-93 -60 0
+c id 2635 type edge_consistency
+-93 -61 0
+c id 2636 type edge_consistency
+-93 -62 0
+c id 2637 type edge_consistency
+-93 -64 0
+c id 2638 type edge_consistency
+-93 -65 0
+c id 2639 type edge_consistency
+-93 -66 0
+c id 2640 type edge_consistency
+-93 -68 0
+c id 2641 type edge_consistency
+-93 -69 0
+c id 2642 type edge_consistency
+-93 -72 0
+c id 2643 type edge_consistency
+-94 -49 0
+c id 2644 type edge_consistency
+-94 -50 0
+c id 2645 type edge_consistency
+-94 -51 0
+c id 2646 type edge_consistency
+-94 -52 0
+c id 2647 type edge_consistency
+-94 -53 0
+c id 2648 type edge_consistency
+-94 -54 0
+c id 2649 type edge_consistency
+-94 -55 0
+c id 2650 type edge_consistency
+-94 -56 0
+c id 2651 type edge_consistency
+-94 -57 0
+c id 2652 type edge_consistency
+-94 -58 0
+c id 2653 type edge_consistency
+-94 -59 0
+c id 2654 type edge_consistency
+-94 -60 0
+c id 2655 type edge_consistency
+-94 -61 0
+c id 2656 type edge_consistency
+-94 -62 0
+c id 2657 type edge_consistency
+-94 -63 0
+c id 2658 type edge_consistency
+-94 -65 0
+c id 2659 type edge_consistency
+-94 -66 0
+c id 2660 type edge_consistency
+-94 -67 0
+c id 2661 type edge_consistency
+-94 -70 0
+c id 2662 type edge_consistency
+-94 -71 0
+c id 2663 type edge_consistency
+-95 -49 0
+c id 2664 type edge_consistency
+-95 -50 0
+c id 2665 type edge_consistency
+-95 -51 0
+c id 2666 type edge_consistency
+-95 -52 0
+c id 2667 type edge_consistency
+-95 -53 0
+c id 2668 type edge_consistency
+-95 -54 0
+c id 2669 type edge_consistency
+-95 -55 0
+c id 2670 type edge_consistency
+-95 -56 0
+c id 2671 type edge_consistency
+-95 -57 0
+c id 2672 type edge_consistency
+-95 -58 0
+c id 2673 type edge_consistency
+-95 -59 0
+c id 2674 type edge_consistency
+-95 -60 0
+c id 2675 type edge_consistency
+-95 -61 0
+c id 2676 type edge_consistency
+-95 -62 0
+c id 2677 type edge_consistency
+-95 -63 0
+c id 2678 type edge_consistency
+-95 -64 0
+c id 2679 type edge_consistency
+-95 -66 0
+c id 2680 type edge_consistency
+-95 -67 0
+c id 2681 type edge_consistency
+-95 -68 0
+c id 2682 type edge_consistency
+-95 -70 0
+c id 2683 type edge_consistency
+-95 -71 0
+c id 2684 type edge_consistency
+-96 -49 0
+c id 2685 type edge_consistency
+-96 -50 0
+c id 2686 type edge_consistency
+-96 -51 0
+c id 2687 type edge_consistency
+-96 -52 0
+c id 2688 type edge_consistency
+-96 -53 0
+c id 2689 type edge_consistency
+-96 -54 0
+c id 2690 type edge_consistency
+-96 -55 0
+c id 2691 type edge_consistency
+-96 -56 0
+c id 2692 type edge_consistency
+-96 -57 0
+c id 2693 type edge_consistency
+-96 -58 0
+c id 2694 type edge_consistency
+-96 -59 0
+c id 2695 type edge_consistency
+-96 -60 0
+c id 2696 type edge_consistency
+-96 -61 0
+c id 2697 type edge_consistency
+-96 -62 0
+c id 2698 type edge_consistency
+-96 -63 0
+c id 2699 type edge_consistency
+-96 -64 0
+c id 2700 type edge_consistency
+-96 -65 0
+c id 2701 type edge_consistency
+-96 -67 0
+c id 2702 type edge_consistency
+-96 -68 0
+c id 2703 type edge_consistency
+-96 -69 0
+c id 2704 type edge_consistency
+-96 -72 0

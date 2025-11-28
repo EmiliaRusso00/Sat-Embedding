@@ -1,0 +1,83 @@
+experiments:
+  - id: 1
+    logical_graph: graphs/random8.txt
+    physical_graph: graphs/clique10.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+  - id: 2
+    logical_graph: graphs/random8.txt
+    physical_graph: graphs/clique5.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+  - id: 3
+    logical_graph: graphs/smallword4.txt
+    physical_graph: graphs/griglia3x3.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+  - id: 4
+    logical_graph: graphs/smallword4.txt
+    physical_graph: graphs/griglia2x3x4.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+  - id: 5
+    logical_graph: graphs/smallword4.txt
+    physical_graph: graphs/chimera1x1x4.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+  - id: 6
+    logical_graph: graphs/smallword4.txt
+    physical_graph: graphs/pegasus2.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+  - id: 7
+    logical_graph: graphs/smallword4.txt
+    physical_graph: graphs/zephyr1.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+  - id: 8
+    logical_graph: graphs/bipartito5x5.txt
+    physical_graph: graphs/chimera1x1x4.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+
+  - id: 9
+    logical_graph: graphs/stella4.txt
+    physical_graph: graphs/smallword8_4.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+    
+  - id: 10
+    logical_graph: graphs/clique5.txt
+    physical_graph: graphs/griglia3x3.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+
+    
+  - id: 11
+    logical_graph: graphs/clique6.txt
+    physical_graph: graphs/path6.txt
+    max_chain_length: 1
+    allow_shared_physical_qubits: false
+    timeout_seconds: 30
+    
+output_dir: outputs
+solver: glucose

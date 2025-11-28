@@ -1,0 +1,38 @@
+{
+    "experiment_id": 6,
+    "timestamp": "2025-11-28T12:44:06.658174",
+    "config": {
+        "id": 6,
+        "logical_graph": "graphs/smallword4.txt",
+        "physical_graph": "graphs/pegasus2.txt",
+        "max_chain_length": 1,
+        "allow_shared_physical_qubits": false,
+        "timeout_seconds": 30
+    },
+    "logical_graph": {
+        "num_vertices": 4,
+        "num_edges": 3
+    },
+    "physical_graph": {
+        "num_vertices": 40,
+        "num_edges": 164
+    },
+    "sat_encoding": {
+        "num_variables": 160,
+        "num_clauses": 7180,
+        "encoding_type": "pairwise"
+    },
+    "solver": {
+        "name": "glucose",
+        "status": "SAT",
+        "time_cnf_generation": 0.05177760124206543,
+        "time_sat_solve": 2.1493749618530273,
+        "time_total": 2.2011525630950928
+    },
+    "solution": {
+        "0": 29,
+        "1": 28,
+        "2": 3,
+        "3": 2
+    }
+}

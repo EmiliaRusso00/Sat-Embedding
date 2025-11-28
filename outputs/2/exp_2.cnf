@@ -1,0 +1,557 @@
+p cnf 40 278
+c id 1 type at_least_one
+1 2 3 4 5 0
+c id 2 type at_most_one
+-1 -2 0
+c id 3 type at_most_one
+-1 -3 0
+c id 4 type at_most_one
+-1 -4 0
+c id 5 type at_most_one
+-1 -5 0
+c id 6 type at_most_one
+-2 -3 0
+c id 7 type at_most_one
+-2 -4 0
+c id 8 type at_most_one
+-2 -5 0
+c id 9 type at_most_one
+-3 -4 0
+c id 10 type at_most_one
+-3 -5 0
+c id 11 type at_most_one
+-4 -5 0
+c id 12 type at_least_one
+6 7 8 9 10 0
+c id 13 type at_most_one
+-6 -7 0
+c id 14 type at_most_one
+-6 -8 0
+c id 15 type at_most_one
+-6 -9 0
+c id 16 type at_most_one
+-6 -10 0
+c id 17 type at_most_one
+-7 -8 0
+c id 18 type at_most_one
+-7 -9 0
+c id 19 type at_most_one
+-7 -10 0
+c id 20 type at_most_one
+-8 -9 0
+c id 21 type at_most_one
+-8 -10 0
+c id 22 type at_most_one
+-9 -10 0
+c id 23 type at_least_one
+11 12 13 14 15 0
+c id 24 type at_most_one
+-11 -12 0
+c id 25 type at_most_one
+-11 -13 0
+c id 26 type at_most_one
+-11 -14 0
+c id 27 type at_most_one
+-11 -15 0
+c id 28 type at_most_one
+-12 -13 0
+c id 29 type at_most_one
+-12 -14 0
+c id 30 type at_most_one
+-12 -15 0
+c id 31 type at_most_one
+-13 -14 0
+c id 32 type at_most_one
+-13 -15 0
+c id 33 type at_most_one
+-14 -15 0
+c id 34 type at_least_one
+16 17 18 19 20 0
+c id 35 type at_most_one
+-16 -17 0
+c id 36 type at_most_one
+-16 -18 0
+c id 37 type at_most_one
+-16 -19 0
+c id 38 type at_most_one
+-16 -20 0
+c id 39 type at_most_one
+-17 -18 0
+c id 40 type at_most_one
+-17 -19 0
+c id 41 type at_most_one
+-17 -20 0
+c id 42 type at_most_one
+-18 -19 0
+c id 43 type at_most_one
+-18 -20 0
+c id 44 type at_most_one
+-19 -20 0
+c id 45 type at_least_one
+21 22 23 24 25 0
+c id 46 type at_most_one
+-21 -22 0
+c id 47 type at_most_one
+-21 -23 0
+c id 48 type at_most_one
+-21 -24 0
+c id 49 type at_most_one
+-21 -25 0
+c id 50 type at_most_one
+-22 -23 0
+c id 51 type at_most_one
+-22 -24 0
+c id 52 type at_most_one
+-22 -25 0
+c id 53 type at_most_one
+-23 -24 0
+c id 54 type at_most_one
+-23 -25 0
+c id 55 type at_most_one
+-24 -25 0
+c id 56 type at_least_one
+26 27 28 29 30 0
+c id 57 type at_most_one
+-26 -27 0
+c id 58 type at_most_one
+-26 -28 0
+c id 59 type at_most_one
+-26 -29 0
+c id 60 type at_most_one
+-26 -30 0
+c id 61 type at_most_one
+-27 -28 0
+c id 62 type at_most_one
+-27 -29 0
+c id 63 type at_most_one
+-27 -30 0
+c id 64 type at_most_one
+-28 -29 0
+c id 65 type at_most_one
+-28 -30 0
+c id 66 type at_most_one
+-29 -30 0
+c id 67 type at_least_one
+31 32 33 34 35 0
+c id 68 type at_most_one
+-31 -32 0
+c id 69 type at_most_one
+-31 -33 0
+c id 70 type at_most_one
+-31 -34 0
+c id 71 type at_most_one
+-31 -35 0
+c id 72 type at_most_one
+-32 -33 0
+c id 73 type at_most_one
+-32 -34 0
+c id 74 type at_most_one
+-32 -35 0
+c id 75 type at_most_one
+-33 -34 0
+c id 76 type at_most_one
+-33 -35 0
+c id 77 type at_most_one
+-34 -35 0
+c id 78 type at_least_one
+36 37 38 39 40 0
+c id 79 type at_most_one
+-36 -37 0
+c id 80 type at_most_one
+-36 -38 0
+c id 81 type at_most_one
+-36 -39 0
+c id 82 type at_most_one
+-36 -40 0
+c id 83 type at_most_one
+-37 -38 0
+c id 84 type at_most_one
+-37 -39 0
+c id 85 type at_most_one
+-37 -40 0
+c id 86 type at_most_one
+-38 -39 0
+c id 87 type at_most_one
+-38 -40 0
+c id 88 type at_most_one
+-39 -40 0
+c id 89 type mutual_exclusion
+-1 -6 0
+c id 90 type mutual_exclusion
+-1 -11 0
+c id 91 type mutual_exclusion
+-1 -16 0
+c id 92 type mutual_exclusion
+-1 -21 0
+c id 93 type mutual_exclusion
+-1 -26 0
+c id 94 type mutual_exclusion
+-1 -31 0
+c id 95 type mutual_exclusion
+-1 -36 0
+c id 96 type mutual_exclusion
+-6 -11 0
+c id 97 type mutual_exclusion
+-6 -16 0
+c id 98 type mutual_exclusion
+-6 -21 0
+c id 99 type mutual_exclusion
+-6 -26 0
+c id 100 type mutual_exclusion
+-6 -31 0
+c id 101 type mutual_exclusion
+-6 -36 0
+c id 102 type mutual_exclusion
+-11 -16 0
+c id 103 type mutual_exclusion
+-11 -21 0
+c id 104 type mutual_exclusion
+-11 -26 0
+c id 105 type mutual_exclusion
+-11 -31 0
+c id 106 type mutual_exclusion
+-11 -36 0
+c id 107 type mutual_exclusion
+-16 -21 0
+c id 108 type mutual_exclusion
+-16 -26 0
+c id 109 type mutual_exclusion
+-16 -31 0
+c id 110 type mutual_exclusion
+-16 -36 0
+c id 111 type mutual_exclusion
+-21 -26 0
+c id 112 type mutual_exclusion
+-21 -31 0
+c id 113 type mutual_exclusion
+-21 -36 0
+c id 114 type mutual_exclusion
+-26 -31 0
+c id 115 type mutual_exclusion
+-26 -36 0
+c id 116 type mutual_exclusion
+-31 -36 0
+c id 117 type mutual_exclusion
+-2 -7 0
+c id 118 type mutual_exclusion
+-2 -12 0
+c id 119 type mutual_exclusion
+-2 -17 0
+c id 120 type mutual_exclusion
+-2 -22 0
+c id 121 type mutual_exclusion
+-2 -27 0
+c id 122 type mutual_exclusion
+-2 -32 0
+c id 123 type mutual_exclusion
+-2 -37 0
+c id 124 type mutual_exclusion
+-7 -12 0
+c id 125 type mutual_exclusion
+-7 -17 0
+c id 126 type mutual_exclusion
+-7 -22 0
+c id 127 type mutual_exclusion
+-7 -27 0
+c id 128 type mutual_exclusion
+-7 -32 0
+c id 129 type mutual_exclusion
+-7 -37 0
+c id 130 type mutual_exclusion
+-12 -17 0
+c id 131 type mutual_exclusion
+-12 -22 0
+c id 132 type mutual_exclusion
+-12 -27 0
+c id 133 type mutual_exclusion
+-12 -32 0
+c id 134 type mutual_exclusion
+-12 -37 0
+c id 135 type mutual_exclusion
+-17 -22 0
+c id 136 type mutual_exclusion
+-17 -27 0
+c id 137 type mutual_exclusion
+-17 -32 0
+c id 138 type mutual_exclusion
+-17 -37 0
+c id 139 type mutual_exclusion
+-22 -27 0
+c id 140 type mutual_exclusion
+-22 -32 0
+c id 141 type mutual_exclusion
+-22 -37 0
+c id 142 type mutual_exclusion
+-27 -32 0
+c id 143 type mutual_exclusion
+-27 -37 0
+c id 144 type mutual_exclusion
+-32 -37 0
+c id 145 type mutual_exclusion
+-3 -8 0
+c id 146 type mutual_exclusion
+-3 -13 0
+c id 147 type mutual_exclusion
+-3 -18 0
+c id 148 type mutual_exclusion
+-3 -23 0
+c id 149 type mutual_exclusion
+-3 -28 0
+c id 150 type mutual_exclusion
+-3 -33 0
+c id 151 type mutual_exclusion
+-3 -38 0
+c id 152 type mutual_exclusion
+-8 -13 0
+c id 153 type mutual_exclusion
+-8 -18 0
+c id 154 type mutual_exclusion
+-8 -23 0
+c id 155 type mutual_exclusion
+-8 -28 0
+c id 156 type mutual_exclusion
+-8 -33 0
+c id 157 type mutual_exclusion
+-8 -38 0
+c id 158 type mutual_exclusion
+-13 -18 0
+c id 159 type mutual_exclusion
+-13 -23 0
+c id 160 type mutual_exclusion
+-13 -28 0
+c id 161 type mutual_exclusion
+-13 -33 0
+c id 162 type mutual_exclusion
+-13 -38 0
+c id 163 type mutual_exclusion
+-18 -23 0
+c id 164 type mutual_exclusion
+-18 -28 0
+c id 165 type mutual_exclusion
+-18 -33 0
+c id 166 type mutual_exclusion
+-18 -38 0
+c id 167 type mutual_exclusion
+-23 -28 0
+c id 168 type mutual_exclusion
+-23 -33 0
+c id 169 type mutual_exclusion
+-23 -38 0
+c id 170 type mutual_exclusion
+-28 -33 0
+c id 171 type mutual_exclusion
+-28 -38 0
+c id 172 type mutual_exclusion
+-33 -38 0
+c id 173 type mutual_exclusion
+-4 -9 0
+c id 174 type mutual_exclusion
+-4 -14 0
+c id 175 type mutual_exclusion
+-4 -19 0
+c id 176 type mutual_exclusion
+-4 -24 0
+c id 177 type mutual_exclusion
+-4 -29 0
+c id 178 type mutual_exclusion
+-4 -34 0
+c id 179 type mutual_exclusion
+-4 -39 0
+c id 180 type mutual_exclusion
+-9 -14 0
+c id 181 type mutual_exclusion
+-9 -19 0
+c id 182 type mutual_exclusion
+-9 -24 0
+c id 183 type mutual_exclusion
+-9 -29 0
+c id 184 type mutual_exclusion
+-9 -34 0
+c id 185 type mutual_exclusion
+-9 -39 0
+c id 186 type mutual_exclusion
+-14 -19 0
+c id 187 type mutual_exclusion
+-14 -24 0
+c id 188 type mutual_exclusion
+-14 -29 0
+c id 189 type mutual_exclusion
+-14 -34 0
+c id 190 type mutual_exclusion
+-14 -39 0
+c id 191 type mutual_exclusion
+-19 -24 0
+c id 192 type mutual_exclusion
+-19 -29 0
+c id 193 type mutual_exclusion
+-19 -34 0
+c id 194 type mutual_exclusion
+-19 -39 0
+c id 195 type mutual_exclusion
+-24 -29 0
+c id 196 type mutual_exclusion
+-24 -34 0
+c id 197 type mutual_exclusion
+-24 -39 0
+c id 198 type mutual_exclusion
+-29 -34 0
+c id 199 type mutual_exclusion
+-29 -39 0
+c id 200 type mutual_exclusion
+-34 -39 0
+c id 201 type mutual_exclusion
+-5 -10 0
+c id 202 type mutual_exclusion
+-5 -15 0
+c id 203 type mutual_exclusion
+-5 -20 0
+c id 204 type mutual_exclusion
+-5 -25 0
+c id 205 type mutual_exclusion
+-5 -30 0
+c id 206 type mutual_exclusion
+-5 -35 0
+c id 207 type mutual_exclusion
+-5 -40 0
+c id 208 type mutual_exclusion
+-10 -15 0
+c id 209 type mutual_exclusion
+-10 -20 0
+c id 210 type mutual_exclusion
+-10 -25 0
+c id 211 type mutual_exclusion
+-10 -30 0
+c id 212 type mutual_exclusion
+-10 -35 0
+c id 213 type mutual_exclusion
+-10 -40 0
+c id 214 type mutual_exclusion
+-15 -20 0
+c id 215 type mutual_exclusion
+-15 -25 0
+c id 216 type mutual_exclusion
+-15 -30 0
+c id 217 type mutual_exclusion
+-15 -35 0
+c id 218 type mutual_exclusion
+-15 -40 0
+c id 219 type mutual_exclusion
+-20 -25 0
+c id 220 type mutual_exclusion
+-20 -30 0
+c id 221 type mutual_exclusion
+-20 -35 0
+c id 222 type mutual_exclusion
+-20 -40 0
+c id 223 type mutual_exclusion
+-25 -30 0
+c id 224 type mutual_exclusion
+-25 -35 0
+c id 225 type mutual_exclusion
+-25 -40 0
+c id 226 type mutual_exclusion
+-30 -35 0
+c id 227 type mutual_exclusion
+-30 -40 0
+c id 228 type mutual_exclusion
+-35 -40 0
+c id 229 type edge_consistency
+-1 -16 0
+c id 230 type edge_consistency
+-2 -17 0
+c id 231 type edge_consistency
+-3 -18 0
+c id 232 type edge_consistency
+-4 -19 0
+c id 233 type edge_consistency
+-5 -20 0
+c id 234 type edge_consistency
+-1 -26 0
+c id 235 type edge_consistency
+-2 -27 0
+c id 236 type edge_consistency
+-3 -28 0
+c id 237 type edge_consistency
+-4 -29 0
+c id 238 type edge_consistency
+-5 -30 0
+c id 239 type edge_consistency
+-1 -31 0
+c id 240 type edge_consistency
+-2 -32 0
+c id 241 type edge_consistency
+-3 -33 0
+c id 242 type edge_consistency
+-4 -34 0
+c id 243 type edge_consistency
+-5 -35 0
+c id 244 type edge_consistency
+-16 -6 0
+c id 245 type edge_consistency
+-17 -7 0
+c id 246 type edge_consistency
+-18 -8 0
+c id 247 type edge_consistency
+-19 -9 0
+c id 248 type edge_consistency
+-20 -10 0
+c id 249 type edge_consistency
+-26 -6 0
+c id 250 type edge_consistency
+-27 -7 0
+c id 251 type edge_consistency
+-28 -8 0
+c id 252 type edge_consistency
+-29 -9 0
+c id 253 type edge_consistency
+-30 -10 0
+c id 254 type edge_consistency
+-26 -11 0
+c id 255 type edge_consistency
+-27 -12 0
+c id 256 type edge_consistency
+-28 -13 0
+c id 257 type edge_consistency
+-29 -14 0
+c id 258 type edge_consistency
+-30 -15 0
+c id 259 type edge_consistency
+-31 -11 0
+c id 260 type edge_consistency
+-32 -12 0
+c id 261 type edge_consistency
+-33 -13 0
+c id 262 type edge_consistency
+-34 -14 0
+c id 263 type edge_consistency
+-35 -15 0
+c id 264 type edge_consistency
+-31 -36 0
+c id 265 type edge_consistency
+-32 -37 0
+c id 266 type edge_consistency
+-33 -38 0
+c id 267 type edge_consistency
+-34 -39 0
+c id 268 type edge_consistency
+-35 -40 0
+c id 269 type edge_consistency
+-6 -21 0
+c id 270 type edge_consistency
+-7 -22 0
+c id 271 type edge_consistency
+-8 -23 0
+c id 272 type edge_consistency
+-9 -24 0
+c id 273 type edge_consistency
+-10 -25 0
+c id 274 type edge_consistency
+-21 -11 0
+c id 275 type edge_consistency
+-22 -12 0
+c id 276 type edge_consistency
+-23 -13 0
+c id 277 type edge_consistency
+-24 -14 0
+c id 278 type edge_consistency
+-25 -15 0

@@ -1,0 +1,42 @@
+{
+    "experiment_id": 1,
+    "timestamp": "2025-11-28T12:43:35.705975",
+    "config": {
+        "id": 1,
+        "logical_graph": "graphs/random8.txt",
+        "physical_graph": "graphs/clique10.txt",
+        "max_chain_length": 1,
+        "allow_shared_physical_qubits": false,
+        "timeout_seconds": 30
+    },
+    "logical_graph": {
+        "num_vertices": 8,
+        "num_edges": 10
+    },
+    "physical_graph": {
+        "num_vertices": 10,
+        "num_edges": 45
+    },
+    "sat_encoding": {
+        "num_variables": 80,
+        "num_clauses": 748,
+        "encoding_type": "pairwise"
+    },
+    "solver": {
+        "name": "glucose",
+        "status": "SAT",
+        "time_cnf_generation": 0.011664390563964844,
+        "time_sat_solve": 2.543248176574707,
+        "time_total": 2.554912567138672
+    },
+    "solution": {
+        "0": 7,
+        "1": 6,
+        "2": 5,
+        "3": 4,
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 0
+    }
+}
